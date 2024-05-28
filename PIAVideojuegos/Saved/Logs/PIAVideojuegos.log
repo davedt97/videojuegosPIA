@@ -9731,3 +9731,603 @@ The asset is referenced by other content.
 [2024.05.28-07.54.21:087][812]LogUObjectHash: Compacting FUObjectHashTables data took  11.77ms
 [2024.05.28-07.54.21:208][813]LogPlayLevel: Display: Destroying online subsystem :Context_134
 [2024.05.28-07.54.51:298][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2024.05.28-08.00.40:344][140]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.28-08.00.40:394][140]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.28-08.00.47:988][276]LogContentBrowser: Attempting asset rename: NewFolder -> AmmoBox
+[2024.05.28-08.00.47:996][276]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.28-08.00.55:055][367]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ricky\Documents\Mis_Archivos\FCFM\6 sem\Videojuegos\Other\sci-fi-ammo-box\source\Box_final\Box_final.obj)
+[2024.05.28-08.00.55:133][367]LogFbx: Loading FBX Scene from C:\Users\ricky\Documents\Mis_Archivos\FCFM\6 sem\Videojuegos\Other\sci-fi-ammo-box\source\Box_final\Box_final.obj
+[2024.05.28-08.00.55:329][367]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.28-08.00.59:514][367]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.05.28-08.00.59:772][367]LogMaterial: Display: Missing cached shadermap for polySurface52Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A1EF0BA4F157A57BF8383983E434CD43A0A9C3F7), compiling. 
+[2024.05.28-08.00.59:926][367]LogFbx: Display: Triangulating static mesh Box_final:polySurface52
+[2024.05.28-08.01.00:427][367]LogStaticMesh: Building static mesh Box_final...
+[2024.05.28-08.01.00:631][367]LogStaticMesh: Built static mesh [0.21s] /Game/Models/ITEMS/AmmoBox/Box_final.Box_final
+[2024.05.28-08.01.00:857][371]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.01.00:861][371]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2024.05.28-08.01.00:861][371]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2024.05.28-08.01.00:861][371]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.01.00:928][371]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2024.05.28-08.01.00:942][371]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2024.05.28-08.01.00:942][371]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.01.05:212][412]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2024.05.28-08.01.05:212][412]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.01.05:299][412]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.28-08.01.05:299][412]LogShaderCompilers: Display: Total job queries 4030, among them cache hits 2281 (56.60%)
+[2024.05.28-08.01.05:299][412]LogShaderCompilers: Display: Tracking 840 distinct input hashes that result in 233 distinct outputs (27.74%)
+[2024.05.28-08.01.05:301][412]LogShaderCompilers: Display: RAM used: 1.13 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.28%
+[2024.05.28-08.01.05:301][412]LogShaderCompilers: Display: ================================================
+[2024.05.28-08.01.06:259][422]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2024.05.28-08.01.06:259][422]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.01.13:446][504]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2024.05.28-08.01.13:446][504]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.01.14:574][517]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2024.05.28-08.01.14:574][517]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.01.16:558][542]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\ricky\Documents\Mis_Archivos\FCFM\6 sem\Videojuegos\Other\sci-fi-ammo-box\textures\AO_ao.png)
+[2024.05.28-08.01.16:792][542]LogTexture: Display: Building textures: AO_ao (OODLE_AutoDXT, 2048X2048)
+[2024.05.28-08.01.17:608][542]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.28-08.01.17:608][542]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.28-08.01.17:628][542]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\ricky\Documents\Mis_Archivos\FCFM\6 sem\Videojuegos\Other\sci-fi-ammo-box\textures\BOX_full_albedo.png)
+[2024.05.28-08.01.17:730][542]LogTexture: Display: Building textures: BOX_full_albedo (OODLE_AutoDXT, 2048X2048)
+[2024.05.28-08.01.18:387][542]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.28-08.01.18:387][542]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.28-08.01.18:417][542]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\ricky\Documents\Mis_Archivos\FCFM\6 sem\Videojuegos\Other\sci-fi-ammo-box\textures\BOX_full_ALFA.png)
+[2024.05.28-08.01.18:483][542]LogTexture: Display: Building textures: BOX_full_ALFA (OODLE_AutoDXT, 2048X2048)
+[2024.05.28-08.01.18:939][542]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.28-08.01.18:939][542]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.28-08.01.18:946][542]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\ricky\Documents\Mis_Archivos\FCFM\6 sem\Videojuegos\Other\sci-fi-ammo-box\textures\BOX_full_EMISS.png)
+[2024.05.28-08.01.19:009][542]LogTexture: Display: Building textures: BOX_full_EMISS (OODLE_AutoDXT, 2048X2048)
+[2024.05.28-08.01.19:229][542]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.28-08.01.19:229][542]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.28-08.01.19:245][542]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\ricky\Documents\Mis_Archivos\FCFM\6 sem\Videojuegos\Other\sci-fi-ammo-box\textures\BOX_full_Metall.png)
+[2024.05.28-08.01.19:342][542]LogTexture: Display: Building textures: BOX_full_Metall (OODLE_AutoDXT, 2048X2048)
+[2024.05.28-08.01.19:998][542]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.28-08.01.19:998][542]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.28-08.01.20:018][542]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\ricky\Documents\Mis_Archivos\FCFM\6 sem\Videojuegos\Other\sci-fi-ammo-box\textures\BOX_full_normal.png)
+[2024.05.28-08.01.20:165][542]LogTexture: Display: Building textures: BOX_full_normal (OODLE_BC5, 2048X2048)
+[2024.05.28-08.01.20:451][542]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.05.28-08.01.20:451][542]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.05.28-08.01.20:513][542]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\ricky\Documents\Mis_Archivos\FCFM\6 sem\Videojuegos\Other\sci-fi-ammo-box\textures\BOX_full_rness.png)
+[2024.05.28-08.01.20:612][542]LogTexture: Display: Building textures: BOX_full_rness (OODLE_AutoDXT, 2048X2048)
+[2024.05.28-08.01.21:803][542]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.28-08.01.21:803][542]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.28-08.01.26:081][577]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/ITEMS/AmmoBox/polySurface52Mat.polySurface52Mat
+[2024.05.28-08.01.26:108][577]LogMaterial: Display: Missing cached shadermap for polySurface52Mat in PCD3D_SM5, Default, SM5 (DDC key hash: ECB7BCA66C92EE4729BC95AB53F3347C5894CB10), compiling. 
+[2024.05.28-08.01.26:556][577]LogMaterial: Display: Missing cached shadermap for polySurface52Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 4BFD4A2B3483561E58BAD1BF82A8AF2EED94D577), compiling. 
+[2024.05.28-08.01.26:570][577]LogMaterial: Display: Missing cached shadermap for polySurface52Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 73A128625615DB3E18708DC46DA22BCC44562278), compiling. 
+[2024.05.28-08.01.26:575][577]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C7083366B665FD155DB86BE2B52E9515B5E8AC6F), compiling. 
+[2024.05.28-08.01.26:618][577]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.28-08.01.26:894][578]MaterialEditorStats: Base pass shader: 119 instructions
+[2024.05.28-08.01.26:894][578]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2024.05.28-08.01.26:894][578]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2024.05.28-08.01.26:895][578]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.28-08.01.34:966][865]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-08.01.34:966][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-08.01.36:635][901]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.28-08.01.36:636][901]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-08.01.36:636][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-08.01.50:638][ 46]LogMaterial: Display: Missing cached shadermap for polySurface52Mat in PCD3D_SM5, Default, SM5 (DDC key hash: AF89C848979AAE8705C121CADBAF7995CD272292), compiling. 
+[2024.05.28-08.01.50:645][ 46]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.28-08.01.50:722][ 47]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.01.50:722][ 47]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2024.05.28-08.01.50:722][ 47]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2024.05.28-08.01.50:722][ 47]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.01.50:722][ 47]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2024.05.28-08.01.50:787][ 49]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2024.05.28-08.01.50:787][ 49]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.01.53:469][ 80]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2024.05.28-08.01.53:469][ 80]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.01.54:587][ 90]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2024.05.28-08.01.54:587][ 90]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.01.54:657][ 91]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.28-08.02.01:445][157]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2024.05.28-08.02.01:445][157]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.02.04:982][190]MaterialEditorStats: Base pass shader: 117 instructions
+[2024.05.28-08.02.04:982][190]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2024.05.28-08.02.04:982][190]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2024.05.28-08.02.04:982][190]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.28-08.02.20:114][365]LogMaterial: Display: Missing cached shadermap for polySurface52Mat in PCD3D_SM5, Default, SM5 (DDC key hash: FD4DAF6B5074890E679E733AC603C6474EF23265), compiling. 
+[2024.05.28-08.02.20:120][365]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C89064DA5EA042B6D9E61F4659B1FDC407A0C00E), compiling. 
+[2024.05.28-08.02.20:126][365]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8F1A8808155000383AE7FA57CA44B9E6CD366F30), compiling. 
+[2024.05.28-08.02.20:132][365]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.28-08.02.20:275][367]MaterialEditorStats: Base pass shader: 117 instructions
+[2024.05.28-08.02.20:275][367]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2024.05.28-08.02.20:276][367]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2024.05.28-08.02.20:276][367]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.28-08.02.26:891][454]LogMaterial: Display: Missing cached shadermap for polySurface52Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1FDC2861057E5083F7C81F0E85D149632A318FC5), compiling. 
+[2024.05.28-08.02.26:899][454]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D77046DBF13F69EDDB3E9CED76F6809E14209AAB), compiling. 
+[2024.05.28-08.02.26:907][454]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.28-08.02.26:907][454]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.05.28-08.02.26:907][454]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.02.26:929][455]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.02.26:994][455]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2024.05.28-08.02.26:994][455]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2024.05.28-08.02.26:994][455]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.02.26:994][455]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2024.05.28-08.02.27:023][455]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2024.05.28-08.02.27:023][455]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.02.30:742][498]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2024.05.28-08.02.30:742][498]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.02.31:142][503]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2024.05.28-08.02.31:142][503]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.02.31:289][504]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.28-08.02.31:289][504]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.05.28-08.02.31:289][504]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.02.33:154][522]LogMaterial: Display: Missing cached shadermap for polySurface52Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 4E70211E315A79744581FDB593B3CFA7134A589D), compiling. 
+[2024.05.28-08.02.33:163][522]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0BB87C04B2E4BAB36EC9507DC033F28161517F4B), compiling. 
+[2024.05.28-08.02.33:170][522]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D69EFAD933A4F86B02E96B70A151BB5CA4E7550A), compiling. 
+[2024.05.28-08.02.33:177][522]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5EFCE2758DA32336145E75E59B2F0C403DEE75B9), compiling. 
+[2024.05.28-08.02.33:191][522]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.28-08.02.33:191][522]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.05.28-08.02.33:191][522]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.02.33:278][523]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2024.05.28-08.02.33:342][524]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.28-08.02.33:342][524]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.05.28-08.02.33:342][524]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.02.37:176][565]LogMaterial: Display: Missing cached shadermap for polySurface52Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0679FA2AC805ADCBB5B94EF6F7BF58445ABD78E0), compiling. 
+[2024.05.28-08.02.37:182][565]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A06704D64E96AC9EE1A770C67C30C558914C2B12), compiling. 
+[2024.05.28-08.02.37:192][565]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.28-08.02.37:192][565]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.05.28-08.02.37:192][565]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.02.37:234][566]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.02.37:282][567]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2024.05.28-08.02.37:911][574]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2024.05.28-08.02.37:911][574]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.02.38:296][578]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2024.05.28-08.02.38:296][578]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.02.38:419][580]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2024.05.28-08.02.38:419][580]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.02.40:946][607]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2024.05.28-08.02.40:946][607]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.02.41:191][610]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2024.05.28-08.02.41:191][610]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.02.41:279][610]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.28-08.02.41:280][610]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.05.28-08.02.41:280][610]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.02.44:182][638]LogMaterial: Display: Missing cached shadermap for polySurface52Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 09D81CC7B36E46A524F91AB52FED6198C7CC1C40), compiling. 
+[2024.05.28-08.02.44:189][638]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: D6EEED0C517E84CC4B81E72CF49CEBA8B6E04164), compiling. 
+[2024.05.28-08.02.44:195][638]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CEA54368CC3760DD4EF934B124BCB843187A8601), compiling. 
+[2024.05.28-08.02.44:199][638]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: DEC0C36B65D5AA508907E16BCC924F1DD0D56CD6), compiling. 
+[2024.05.28-08.02.44:204][638]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8C7D38EDE44B4EB9FBE69FA990A133CD7D63A022), compiling. 
+[2024.05.28-08.02.44:214][638]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.28-08.02.44:214][638]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.05.28-08.02.44:214][638]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.02.44:305][639]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2024.05.28-08.02.44:364][640]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.28-08.02.44:365][640]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.05.28-08.02.44:365][640]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.02.46:944][667]LogMaterial: Display: Missing cached shadermap for polySurface52Mat in PCD3D_SM5, Default, SM5 (DDC key hash: DBE5910E640134BD97987FFAC25393FA3A807206), compiling. 
+[2024.05.28-08.02.46:951][667]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2640A5A3499BBA6A579C1E761F14264C287F503C), compiling. 
+[2024.05.28-08.02.46:963][667]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.28-08.02.46:963][667]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.28-08.02.46:963][667]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.02.47:004][668]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.02.47:061][669]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2024.05.28-08.02.50:241][701]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2024.05.28-08.02.50:241][701]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.02.50:404][705]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2024.05.28-08.02.50:404][705]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.02.50:465][705]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2024.05.28-08.02.50:465][705]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.02.53:101][730]LogMaterial: Display: Missing cached shadermap for polySurface52Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1A15542B9E9A64C1C43A254AC919DF409AF903FE), compiling. 
+[2024.05.28-08.02.53:109][730]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: BD44EBA4C145DAD4E63B0DE9F615FD1DC8540646), compiling. 
+[2024.05.28-08.02.53:114][730]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 393169F3B848171A6AC7509E3A478FBEF3D4AEC2), compiling. 
+[2024.05.28-08.02.53:120][730]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: EAF965E87EF6241785CE152B34D15D0486D1E5B2), compiling. 
+[2024.05.28-08.02.53:123][730]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1626FC998BE23DB1FEA22A99775C014C29E1529D), compiling. 
+[2024.05.28-08.02.53:129][730]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: A505409F165B65654FF321FEEE430606CA7A0276), compiling. 
+[2024.05.28-08.02.53:231][731]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2024.05.28-08.02.53:450][735]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2024.05.28-08.02.53:450][735]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.02.54:121][742]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2024.05.28-08.02.54:121][742]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.02.54:208][743]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.28-08.02.54:208][743]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.28-08.02.54:208][743]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.03.00:855][815]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2024.05.28-08.03.00:855][815]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.03.01:950][825]LogMaterial: Display: Missing cached shadermap for polySurface52Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6400840747639A9316E38B1F51E0A4FDA8DFAEDA), compiling. 
+[2024.05.28-08.03.01:958][825]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 962BD7F326D72ABDE0130F5731172D23D15F66F2), compiling. 
+[2024.05.28-08.03.01:968][825]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.28-08.03.01:968][825]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2024.05.28-08.03.01:968][825]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.03.01:997][826]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.03.01:999][826]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2024.05.28-08.03.01:999][826]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2024.05.28-08.03.01:999][826]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.03.02:057][827]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2024.05.28-08.03.04:409][853]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2024.05.28-08.03.04:409][853]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.03.05:062][860]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2024.05.28-08.03.05:062][860]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.03.05:940][868]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2024.05.28-08.03.05:940][868]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.03.05:949][868]MaterialEditorStats: Texture samplers: 6/16
+[2024.05.28-08.03.05:949][868]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2024.05.28-08.03.05:949][868]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.03.07:613][885]LogMaterial: Display: Missing cached shadermap for polySurface52Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5B93CD2D363C23E4BF8E961DEEEBC134478628FE), compiling. 
+[2024.05.28-08.03.07:620][885]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 9621D7BE0D178FB66F6B56B5A12D2FCFF0D628CB), compiling. 
+[2024.05.28-08.03.07:629][885]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4A2A56AA5AC0B91B8EA1F05FBC348F9B8712F59D), compiling. 
+[2024.05.28-08.03.07:634][885]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B58EC36F3F85474224C6E2AB76E671959B6370C6), compiling. 
+[2024.05.28-08.03.07:640][885]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 485DB77EA80556FBF099BFD3623EBB79670F64AA), compiling. 
+[2024.05.28-08.03.07:646][885]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 81E4D406380C2CCA1764D49E1E5FB4BC75D19054), compiling. 
+[2024.05.28-08.03.07:652][885]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 7EF78CA7E8FBB0F343996C8341AABC268031109B), compiling. 
+[2024.05.28-08.03.07:665][885]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.28-08.03.07:666][885]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2024.05.28-08.03.07:666][885]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.03.07:762][886]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2024.05.28-08.03.07:822][887]MaterialEditorStats: Texture samplers: 6/16
+[2024.05.28-08.03.07:822][887]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2024.05.28-08.03.07:822][887]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.03.12:081][934]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2024.05.28-08.03.12:081][934]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.03.15:319][967]MaterialEditorStats: Base pass shader: 126 instructions
+[2024.05.28-08.03.15:319][967]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2024.05.28-08.03.15:319][967]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.05.28-08.03.15:319][967]MaterialEditorStats: Texture samplers: 6/16
+[2024.05.28-08.03.15:319][967]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2024.05.28-08.03.15:319][967]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.03.18:020][996]LogMaterial: Display: Missing cached shadermap for polySurface52Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 623DFD31ADA03B6E7562DC2F701E7CE54CDE9192), compiling. 
+[2024.05.28-08.03.18:030][996]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: CD4E265815221551AB463F75915FE3544A312722), compiling. 
+[2024.05.28-08.03.18:040][996]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.28-08.03.18:040][996]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2024.05.28-08.03.18:040][996]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.03.18:067][997]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.03.18:110][998]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2024.05.28-08.03.18:112][998]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2024.05.28-08.03.18:112][998]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.03.18:112][998]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2024.05.28-08.03.18:112][998]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2024.05.28-08.03.18:112][998]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.03.21:185][ 27]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2024.05.28-08.03.21:185][ 27]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.03.22:301][ 36]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2024.05.28-08.03.22:301][ 36]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.03.22:342][ 37]MaterialEditorStats: Texture samplers: 7/16
+[2024.05.28-08.03.22:342][ 37]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2024.05.28-08.03.22:342][ 37]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.03.24:564][ 58]LogMaterial: Display: Missing cached shadermap for polySurface52Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 274724852EF9604ED180A38BDFBF97C9951004A9), compiling. 
+[2024.05.28-08.03.24:572][ 58]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 28977958F8207119E1DEFF0BB5BE5C9E51EE3062), compiling. 
+[2024.05.28-08.03.24:576][ 58]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2E0A3C8721FEC05466921841D32B25DA94EA1902), compiling. 
+[2024.05.28-08.03.24:583][ 58]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 975F05D7145EFE5CD66839BF024E9C2D3E23BBAA), compiling. 
+[2024.05.28-08.03.24:587][ 58]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 68B450EF6BB6D1FB538702F9637480A18235A572), compiling. 
+[2024.05.28-08.03.24:593][ 58]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 02CB94DE00E377669E6D26B9574FD58645AF46C6), compiling. 
+[2024.05.28-08.03.24:598][ 58]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 044C9EB3CA063124AC234AB89C822A50FC81F809), compiling. 
+[2024.05.28-08.03.24:603][ 58]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 088B51FEA963F639CA19279F23FB03AAE03B8E1F), compiling. 
+[2024.05.28-08.03.24:613][ 58]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.28-08.03.24:613][ 58]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2024.05.28-08.03.24:613][ 58]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.03.24:701][ 59]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2024.05.28-08.03.24:769][ 60]MaterialEditorStats: Texture samplers: 7/16
+[2024.05.28-08.03.24:769][ 60]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2024.05.28-08.03.24:769][ 60]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.03.28:083][ 95]LogMaterial: Display: Missing cached shadermap for polySurface52Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 4C96A6DF4D7B23E993C9DC90A4B80CA9C583C606), compiling. 
+[2024.05.28-08.03.28:091][ 95]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 46806FE19C4FF3481C03E21BECB9BDAA960F673C), compiling. 
+[2024.05.28-08.03.28:102][ 95]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.28-08.03.28:102][ 95]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2024.05.28-08.03.28:102][ 95]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.03.28:130][ 96]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.03.28:164][ 97]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2024.05.28-08.03.29:555][112]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2024.05.28-08.03.29:555][112]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.03.29:819][115]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2024.05.28-08.03.29:820][115]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.03.30:042][118]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2024.05.28-08.03.30:042][118]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.03.32:319][141]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2024.05.28-08.03.32:319][141]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.03.33:423][152]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2024.05.28-08.03.33:423][152]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.03.33:449][152]MaterialEditorStats: Texture samplers: 7/16
+[2024.05.28-08.03.33:449][152]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2024.05.28-08.03.33:449][152]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.03.34:925][168]LogMaterialEditor: Applying material polySurface52Mat
+[2024.05.28-08.03.36:349][168]LogMaterial: Display: Missing cached shadermap for polySurface52Mat in PCD3D_SM5, Default, SM5 (DDC key hash: ABE710B2E195B1D6FD87B82206C6DF3FD8C64A5C), compiling. 
+[2024.05.28-08.03.36:416][168]LogMaterial: Display: Missing cached shadermap for polySurface52Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D8AEC0D6E3A57E4AABC254398C875AB602550606), compiling. 
+[2024.05.28-08.03.36:736][168]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2024.05.28-08.03.36:736][168]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2024.05.28-08.03.36:736][168]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.03.36:848][168]LogUObjectHash: Compacting FUObjectHashTables data took  33.46ms
+[2024.05.28-08.03.36:965][168]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.03.38:008][168]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2024.05.28-08.03.38:008][168]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.03.38:245][168]LogUObjectHash: Compacting FUObjectHashTables data took  12.02ms
+[2024.05.28-08.03.38:287][168]MaterialEditorStats: Texture samplers: 6/16
+[2024.05.28-08.03.38:287][168]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2024.05.28-08.03.38:287][168]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.03.38:345][168]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2024.05.28-08.03.38:355][168]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2024.05.28-08.03.38:355][168]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2024.05.28-08.03.38:355][168]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2024.05.28-08.03.38:355][168]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.03.38:453][169]MaterialEditorStats: Texture samplers: 8/16
+[2024.05.28-08.03.38:453][169]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2024.05.28-08.03.38:453][169]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.03.40:457][194]LogMaterialEditor: Saving and Compiling material polySurface52Mat
+[2024.05.28-08.03.42:214][194]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/polySurface52MatAEE5AB734470402ED64E1782E39D1924.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/AmmoBox/polySurface52Mat.uasset'
+[2024.05.28-08.03.42:264][194]AssetCheck: New page: Asset Save: polySurface52Mat
+[2024.05.28-08.03.42:264][194]LogContentValidation: Display: Validating Material /Game/Models/ITEMS/AmmoBox/polySurface52Mat.polySurface52Mat
+[2024.05.28-08.03.42:266][194]MaterialEditorStats: Base pass shader: 132 instructions
+[2024.05.28-08.03.42:267][194]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 210 instructions
+[2024.05.28-08.03.42:267][194]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.05.28-08.03.42:267][194]MaterialEditorStats: Texture samplers: 9/16
+[2024.05.28-08.03.42:267][194]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2024.05.28-08.03.42:267][194]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-08.03.48:486][275]LogSlate: Window 'polySurface52Mat' being destroyed
+[2024.05.28-08.03.48:557][275]LogSlate: Window 'polySurface52Mat' being destroyed
+[2024.05.28-08.03.48:594][275]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-08.03.48:594][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-08.03.55:156][351]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.28-08.03.55:163][351]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.28-08.03.56:505][351]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.28-08.03.56:517][351]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.28-08.03.56:545][351]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.28-08.04.01:356][438]LogContentBrowser: Attempting asset rename: NewBlueprint -> ammoBox
+[2024.05.28-08.04.01:402][438]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.28-08.04.03:645][471]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/ITEMS/ammoBox.ammoBox
+[2024.05.28-08.04.45:932][963]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.28-08.05.07:504][203]LogPhysics: Warning: Scale for /Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.05.28-08.05.07:508][203]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox' 
+[2024.05.28-08.05.07:510][203]LogPhysics: Warning: Scale for /Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.05.28-08.05.07:510][203]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox' 
+[2024.05.28-08.05.07:541][204]LogPhysics: Warning: Scale for /Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.05.28-08.05.07:541][204]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox' 
+[2024.05.28-08.05.07:542][204]LogPhysics: Warning: Scale for /Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.05.28-08.05.07:542][204]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox' 
+[2024.05.28-08.05.07:543][204]LogPhysics: Warning: Scale for /Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.05.28-08.05.07:543][204]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox' 
+[2024.05.28-08.05.07:662][205]LogPhysics: Warning: Scale for /Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.05.28-08.05.07:662][205]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox' 
+[2024.05.28-08.05.07:662][205]LogPhysics: Warning: Scale for /Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.05.28-08.05.07:663][205]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox' 
+[2024.05.28-08.05.08:143][211]LogPhysics: Warning: Scale for /Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.05.28-08.05.08:143][211]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox' 
+[2024.05.28-08.05.08:144][211]LogPhysics: Warning: Scale for /Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.05.28-08.05.08:144][211]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox' 
+[2024.05.28-08.05.08:178][212]LogPhysics: Warning: Scale for /Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.05.28-08.05.08:178][212]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox' 
+[2024.05.28-08.05.08:178][212]LogPhysics: Warning: Scale for /Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.05.28-08.05.08:178][212]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_91:PersistentLevel.ammoBox_C_0.ammoBox' 
+[2024.05.28-08.07.27:018][922]BlueprintLog: New page: Compile ammoBox
+[2024.05.28-08.07.27:201][922]LogUObjectHash: Compacting FUObjectHashTables data took   7.40ms
+[2024.05.28-08.07.28:316][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/ITEMS/ammoBox" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/ammoBox.uasset" SILENT=true
+[2024.05.28-08.07.28:342][934]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/ammoBox5323AB6C45B644FDA9D48B86CA9BD220.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/ammoBox.uasset'
+[2024.05.28-08.07.28:375][934]AssetCheck: New page: Asset Save: ammoBox
+[2024.05.28-08.07.28:375][934]LogContentValidation: Display: Validating Blueprint /Game/Models/ITEMS/ammoBox.ammoBox
+[2024.05.28-08.07.35:308][ 16]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/ITEMS/BP_Injector.BP_Injector
+[2024.05.28-08.08.02:330][810]LogSlate: Window 'ammoBox' being destroyed
+[2024.05.28-08.08.02:350][811]LogRenderer: Reallocating scene render targets to support 1272x744 Format 10 NumSamples 1 (Frame:587).
+[2024.05.28-08.08.29:414][216]BlueprintLog: New page: Compile ammoBox
+[2024.05.28-08.08.29:420][216]LogBlueprint: Error: [AssetLog] C:\Users\ricky\Documents\GitHub\videojuegosPIA\PIAVideojuegos\Content\Models\ITEMS\ammoBox.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To MainSWAT  to imply a specific type.
+[2024.05.28-08.08.29:421][216]LogBlueprint: Error: [AssetLog] C:\Users\ricky\Documents\GitHub\videojuegosPIA\PIAVideojuegos\Content\Models\ITEMS\ammoBox.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.05.28-08.08.29:532][216]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2024.05.28-08.08.34:903][521]BlueprintLog: New page: Compile ammoBox
+[2024.05.28-08.08.35:005][521]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2024.05.28-08.08.35:607][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/ITEMS/ammoBox" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/ammoBox.uasset" SILENT=true
+[2024.05.28-08.08.35:666][549]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/ammoBox3AF5897B4E7623A45811208A641F4716.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/ammoBox.uasset'
+[2024.05.28-08.08.35:694][549]AssetCheck: New page: Asset Save: ammoBox
+[2024.05.28-08.08.35:695][549]LogContentValidation: Display: Validating Blueprint /Game/Models/ITEMS/ammoBox.ammoBox
+[2024.05.28-08.08.40:003][648]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2024.05.28-08.08.40:126][648]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/Box_final0FB573B2437F61C6CEF007817AA8EAEB.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/AmmoBox/Box_final.uasset'
+[2024.05.28-08.08.40:135][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/ITEMS/AmmoBox/AO_ao" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/AmmoBox/AO_ao.uasset" SILENT=true
+[2024.05.28-08.08.40:304][648]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/AO_ao327DCDD845A7147A8117C5A973B8EE44.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/AmmoBox/AO_ao.uasset'
+[2024.05.28-08.08.40:525][648]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/BOX_full_albedo9D59489A4FD98E1D34DD2C8A4B0E0441.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/AmmoBox/BOX_full_albedo.uasset'
+[2024.05.28-08.08.40:606][648]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/BOX_full_ALFAB04B3C2F43250EB1B98E15918456F350.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/AmmoBox/BOX_full_ALFA.uasset'
+[2024.05.28-08.08.40:686][648]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/BOX_full_EMISSCEEEE0A84B2C2633058DA9A85BAA3B98.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/AmmoBox/BOX_full_EMISS.uasset'
+[2024.05.28-08.08.40:857][648]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/BOX_full_MetallE2A37BBC479E5437330BBC9D1BEB0B7D.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/AmmoBox/BOX_full_Metall.uasset'
+[2024.05.28-08.08.41:208][648]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/BOX_full_normal911C1F834CAC75EC8B789194460A7544.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/AmmoBox/BOX_full_normal.uasset'
+[2024.05.28-08.08.41:364][648]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/BOX_full_rnessD0E16C044848EA4EBE8001A0C899A067.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/AmmoBox/BOX_full_rness.uasset'
+[2024.05.28-08.08.41:403][648]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.28-08.08.41:403][648]LogContentValidation: Display: Validating Texture2D /Game/Models/ITEMS/AmmoBox/BOX_full_rness.BOX_full_rness
+[2024.05.28-08.08.41:403][648]LogContentValidation: Display: Validating Texture2D /Game/Models/ITEMS/AmmoBox/BOX_full_normal.BOX_full_normal
+[2024.05.28-08.08.41:403][648]LogContentValidation: Display: Validating Texture2D /Game/Models/ITEMS/AmmoBox/BOX_full_Metall.BOX_full_Metall
+[2024.05.28-08.08.41:403][648]LogContentValidation: Display: Validating Texture2D /Game/Models/ITEMS/AmmoBox/BOX_full_EMISS.BOX_full_EMISS
+[2024.05.28-08.08.41:403][648]LogContentValidation: Display: Validating Texture2D /Game/Models/ITEMS/AmmoBox/BOX_full_ALFA.BOX_full_ALFA
+[2024.05.28-08.08.41:403][648]LogContentValidation: Display: Validating Texture2D /Game/Models/ITEMS/AmmoBox/BOX_full_albedo.BOX_full_albedo
+[2024.05.28-08.08.41:403][648]LogContentValidation: Display: Validating Texture2D /Game/Models/ITEMS/AmmoBox/AO_ao.AO_ao
+[2024.05.28-08.08.41:403][648]LogContentValidation: Display: Validating StaticMesh /Game/Models/ITEMS/AmmoBox/Box_final.Box_final
+[2024.05.28-08.09.32:110][514]BlueprintLog: New page: Compile ammoBox
+[2024.05.28-08.09.32:218][514]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2024.05.28-08.09.33:037][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/ITEMS/ammoBox" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/ammoBox.uasset" SILENT=true
+[2024.05.28-08.09.33:107][553]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/ammoBox344DDD324064947B16F91180669DC7A7.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/ammoBox.uasset'
+[2024.05.28-08.09.33:137][553]AssetCheck: New page: Asset Save: ammoBox
+[2024.05.28-08.09.33:137][553]LogContentValidation: Display: Validating Blueprint /Game/Models/ITEMS/ammoBox.ammoBox
+[2024.05.28-08.10.12:653][453]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2024.05.28-08.10.12:654][453]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.079
+[2024.05.28-08.10.12:658][453]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Models/ITEMS/ammoBox] ([2] browsable assets)...
+[2024.05.28-08.10.12:707][453]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Models/ITEMS/ammoBox.ammoBox]
+[2024.05.28-08.10.12:709][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/ITEMS/ammoBox]
+[2024.05.28-08.10.12:767][453]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/ammoBox_Auto754F3E695442993436AA0B2A5018A4AC6.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/Autosaves/Game/Models/ITEMS/ammoBox_Auto7.uasset'
+[2024.05.28-08.10.12:770][453]LogFileHelpers: Auto-saving content packages took 0.114
+[2024.05.28-08.11.40:224][871]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\ricky\Documents\Mis_Archivos\FCFM\6 sem\Videojuegos\audio\ammo-pick-up.wav)
+[2024.05.28-08.11.44:360][914]LogContentBrowser: Deferred new asset file creation: ammo-pick-up_Cue
+[2024.05.28-08.11.44:421][914]LogContentBrowser: Creating deferred item: ammo-pick-up_Cue
+[2024.05.28-08.11.46:596][952]LogContentBrowser: Attempting asset rename: ammo-pick-up_Cue -> ammo-pick-up_Cue
+[2024.05.28-08.11.46:604][952]LogContentBrowser: End creating deferred item ammo-pick-up_Cue
+[2024.05.28-08.11.48:251][978]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2024.05.28-08.11.48:284][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/ITEMS/ammoBox" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/ammoBox.uasset" SILENT=true
+[2024.05.28-08.11.48:314][978]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/ammoBox110BEB6745A29D56534EE69FE4C13937.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/ammoBox.uasset'
+[2024.05.28-08.11.48:320][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/ammo-pick-up" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Audio/ammo-pick-up.uasset" SILENT=true
+[2024.05.28-08.11.48:324][978]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/ammo-pick-upF0A853484A5FB3ED1CA075AA2F181BF3.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Audio/ammo-pick-up.uasset'
+[2024.05.28-08.11.48:326][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/ammo-pick-up_Cue" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Audio/ammo-pick-up_Cue.uasset" SILENT=true
+[2024.05.28-08.11.48:329][978]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/ammo-pick-up_Cue03EA438D4CBF643F1AE3488BBFB4B71F.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Audio/ammo-pick-up_Cue.uasset'
+[2024.05.28-08.11.48:357][978]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.28-08.11.48:357][978]LogContentValidation: Display: Validating Blueprint /Game/Models/ITEMS/ammoBox.ammoBox
+[2024.05.28-08.11.48:358][978]LogContentValidation: Display: Validating SoundCue /Game/Audio/ammo-pick-up_Cue.ammo-pick-up_Cue
+[2024.05.28-08.11.48:358][978]LogContentValidation: Display: Validating SoundWave /Game/Audio/ammo-pick-up.ammo-pick-up
+[2024.05.28-08.12.41:870][770]BlueprintLog: New page: Compile BP_Injector
+[2024.05.28-08.12.41:993][770]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2024.05.28-08.12.42:741][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/ITEMS/BP_Injector" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/BP_Injector.uasset" SILENT=true
+[2024.05.28-08.12.42:805][804]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/BP_Injector9B5427F94ECDF56ACD296D9B06C0D52C.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/BP_Injector.uasset'
+[2024.05.28-08.12.42:837][804]AssetCheck: New page: Asset Save: BP_Injector
+[2024.05.28-08.12.42:837][804]LogContentValidation: Display: Validating Blueprint /Game/Models/ITEMS/BP_Injector.BP_Injector
+[2024.05.28-08.12.54:254][317]BlueprintLog: New page: Compile ammoBox
+[2024.05.28-08.12.54:359][317]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2024.05.28-08.12.54:918][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/ITEMS/ammoBox" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/ammoBox.uasset" SILENT=true
+[2024.05.28-08.12.54:966][344]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/ammoBox40CC766B493E0E159248FA9C84F6FCEC.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/ITEMS/ammoBox.uasset'
+[2024.05.28-08.12.54:987][344]AssetCheck: New page: Asset Save: ammoBox
+[2024.05.28-08.12.54:987][344]LogContentValidation: Display: Validating Blueprint /Game/Models/ITEMS/ammoBox.ammoBox
+[2024.05.28-08.12.59:836][446]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2024.05.28-08.12.59:915][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.05.28-08.13.00:311][446]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/FirstPersonExampleMap561461E5433816E2A26B15A26D655F76.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2024.05.28-08.13.00:322][446]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.466
+[2024.05.28-08.13.00:344][446]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2024.05.28-08.13.00:344][446]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2024.05.28-08.13.49:037][111]LogUObjectHash: Compacting FUObjectHashTables data took  10.01ms
+[2024.05.28-08.13.49:555][111]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/FirstPersonExampleMap1C1AEDA04818BDF302F47BABC43F6A1D.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2024.05.28-08.13.49:995][111]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/FirstPersonExampleMap_BuiltDataC24DFCDE4082AFA64FD63E9243E9A812.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2024.05.28-08.13.50:015][111]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.28-08.13.50:015][111]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2024.05.28-08.13.50:016][111]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2024.05.28-08.13.51:116][129]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.28-08.13.51:152][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.28-08.13.51:152][129]PIE: New page: PIE session: FirstPersonExampleMap (May 27, 2024, 9:13:51 PM)
+[2024.05.28-08.13.51:162][129]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.05.28-08.13.51:290][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129098s)
+[2024.05.28-08.13.51:292][129]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.05.28-08.13.51:293][129]LogPlayLevel: PIE: World Init took: (0.002502s)
+[2024.05.28-08.13.51:293][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.132005s)
+[2024.05.28-08.13.51:372][129]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2024.05.28-08.13.51:372][129]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2024.05.28-08.13.51:373][129]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.28-08.13.51:373][129]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.28-08.13.51:373][129]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.28-08.13.51:373][129]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.28-08.13.51:373][129]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.28-08.13.51:373][129]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.28-08.13.51:373][129]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.28-08.13.51:373][129]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.28-08.13.51:373][129]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.28-08.13.51:373][129]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.28-08.13.51:373][129]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.28-08.13.51:374][129]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.28-08.13.51:382][129]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.28-08.13.51:382][129]LogAudioMixer: Display: 1: FrontRight
+[2024.05.28-08.13.51:410][129]LogAudioMixer: Display: Using Audio Device Speakers (Realtek Audio)
+[2024.05.28-08.13.51:411][129]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.28-08.13.51:411][129]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.28-08.13.51:411][129]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.28-08.13.51:412][129]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.28-08.13.51:413][129]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.28-08.13.51:413][129]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.28-08.13.51:414][129]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.28-08.13.51:414][129]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.28-08.13.51:414][129]LogInit: FAudioDevice initialized.
+[2024.05.28-08.13.51:414][129]LogAudio: Display: Audio Device (ID: 69) registered with world 'FirstPersonExampleMap'.
+[2024.05.28-08.13.51:432][129]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.05.28-08.13.51:446][129]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2024.05.28-02.13.51
+[2024.05.28-08.13.51:448][129]LogWorld: Bringing up level for play took: 0.015049
+[2024.05.28-08.13.51:449][129]LogOnline: OSS: Creating online subsystem instance for: :Context_139
+[2024.05.28-08.13.51:464][129]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.28-08.13.51:464][129]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.28-08.13.51:464][129]PIE: Server logged in
+[2024.05.28-08.13.51:465][129]PIE: Play in editor total start time 0.335 seconds.
+[2024.05.28-08.13.51:471][129]LogAudio: Warning: Detected orphaned looping sound 'Ambient_Forest'.
+[2024.05.28-08.13.53:345][166]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.28-08.13.53:346][166]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.28-08.14.01:911][276]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-08.14.02:325][282]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-08.14.03:216][295]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-08.14.03:309][296]LogBlueprintUserMessages: [MainSWAT_C_0] Hit
+[2024.05.28-08.14.03:457][298]LogBlueprintUserMessages: [MainSWAT_C_0] Hit
+[2024.05.28-08.14.03:459][298]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-08.14.04:051][306]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-08.14.04:558][313]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-08.14.05:105][320]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-08.14.05:402][324]LogBlueprintUserMessages: [MainSWAT_C_0] Hit
+[2024.05.28-08.14.05:611][327]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-08.14.07:578][352]LogBlueprintUserMessages: [MaceDemon_2] Damage
+[2024.05.28-08.14.07:750][354]LogBlueprintUserMessages: [MaceDemon_2] Dead
+[2024.05.28-08.14.25:310][614]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave ammo-pick-up...
+[2024.05.28-08.14.25:310][614]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/ammo-pick-up.ammo-pick-up will be modified from 40 to 40.
+[2024.05.28-08.14.25:373][614]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 93814 while cooking SoundWave /Game/Audio/ammo-pick-up.ammo-pick-up.
+[2024.05.28-08.14.31:922][707]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.28-08.14.31:922][707]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.28-08.14.34:318][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-08.14.34:342][763]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.05.28-08.14.34:382][763]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-08.14.34:385][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-08.14.34:429][763]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.28-08.14.34:456][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-08.14.34:554][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-08.14.34:554][763]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-08.14.34:556][763]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-08.14.34:586][763]LogUObjectHash: Compacting FUObjectHashTables data took   8.93ms
+[2024.05.28-08.14.34:670][764]LogPlayLevel: Display: Destroying online subsystem :Context_139
+[2024.05.28-08.14.35:572][785]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.28-08.14.35:613][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.28-08.14.35:613][785]PIE: New page: PIE session: FirstPersonExampleMap (May 27, 2024, 9:14:35 PM)
+[2024.05.28-08.14.35:622][785]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.05.28-08.14.35:749][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.126934s)
+[2024.05.28-08.14.35:751][785]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.05.28-08.14.35:753][785]LogPlayLevel: PIE: World Init took: (0.003593s)
+[2024.05.28-08.14.35:753][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.131015s)
+[2024.05.28-08.14.35:844][785]LogUObjectHash: Compacting FUObjectHashTables data took   7.28ms
+[2024.05.28-08.14.35:845][785]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2024.05.28-08.14.35:845][785]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.28-08.14.35:845][785]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.28-08.14.35:845][785]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.28-08.14.35:845][785]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.28-08.14.35:845][785]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.28-08.14.35:845][785]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.28-08.14.35:845][785]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.28-08.14.35:845][785]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.28-08.14.35:846][785]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.28-08.14.35:846][785]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.28-08.14.35:846][785]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.28-08.14.35:846][785]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.28-08.14.35:851][785]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.28-08.14.35:851][785]LogAudioMixer: Display: 1: FrontRight
+[2024.05.28-08.14.35:884][785]LogAudioMixer: Display: Using Audio Device Speakers (Realtek Audio)
+[2024.05.28-08.14.35:884][785]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.28-08.14.35:884][785]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.28-08.14.35:885][785]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.28-08.14.35:885][785]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.28-08.14.35:885][785]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.28-08.14.35:885][785]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.28-08.14.35:887][785]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.28-08.14.35:887][785]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.28-08.14.35:887][785]LogInit: FAudioDevice initialized.
+[2024.05.28-08.14.35:887][785]LogAudio: Display: Audio Device (ID: 70) registered with world 'FirstPersonExampleMap'.
+[2024.05.28-08.14.35:903][785]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.05.28-08.14.35:913][785]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2024.05.28-02.14.35
+[2024.05.28-08.14.35:914][785]LogWorld: Bringing up level for play took: 0.011068
+[2024.05.28-08.14.35:915][785]LogOnline: OSS: Creating online subsystem instance for: :Context_140
+[2024.05.28-08.14.35:922][785]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.28-08.14.35:923][785]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.28-08.14.35:923][785]PIE: Server logged in
+[2024.05.28-08.14.35:924][785]PIE: Play in editor total start time 0.334 seconds.
+[2024.05.28-08.14.35:928][785]LogAudio: Warning: Detected orphaned looping sound 'Ambient_Forest'.
+[2024.05.28-08.14.36:823][806]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.28-08.14.36:823][806]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.28-08.14.43:471][891]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-08.14.43:713][894]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-08.14.44:702][906]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-08.14.44:766][907]LogBlueprintUserMessages: [MainSWAT_C_0] Hit
+[2024.05.28-08.14.44:766][907]LogBlueprintUserMessages: [MainSWAT_C_0] Hit
+[2024.05.28-08.14.45:232][912]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-08.14.45:741][918]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-08.14.46:380][926]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-08.14.46:788][931]LogBlueprintUserMessages: [MainSWAT_C_0] Hit
+[2024.05.28-08.14.46:894][932]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-08.14.47:562][940]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-08.14.48:247][948]LogBlueprintUserMessages: [MaceDemon_2] Damage
+[2024.05.28-08.14.48:308][949]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-08.14.48:482][951]LogBlueprintUserMessages: [MaceDemon_2] Dead
+[2024.05.28-08.14.48:594][952]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-08.14.48:833][955]LogBlueprintUserMessages: [MaceDemon_2] Dead
+[2024.05.28-08.14.49:009][957]LogBlueprintUserMessages: [MaceDemon_2] Dead
+[2024.05.28-08.16.02:171][884]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.28-08.16.02:171][884]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.28-08.16.03:439][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-08.16.03:462][895]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.05.28-08.16.03:583][895]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.05.28-08.16.03:583][895]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-08.16.03:585][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-08.16.03:695][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.28-08.16.03:728][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-08.16.03:833][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-08.16.03:833][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-08.16.03:836][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-08.16.03:859][895]LogUObjectHash: Compacting FUObjectHashTables data took   9.10ms
+[2024.05.28-08.16.03:925][896]LogPlayLevel: Display: Destroying online subsystem :Context_140
+[2024.05.28-08.16.07:394][924]LogUObjectHash: Compacting FUObjectHashTables data took   8.47ms
