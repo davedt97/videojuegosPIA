@@ -6026,3 +6026,966 @@ The asset is referenced by other content.
 [2024.05.28-05.13.53:410][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.05.28-05.13.53:424][271]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
 [2024.05.28-05.13.53:538][272]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2024.05.28-05.23.55:960][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (idCard_Base_Plane_002)
+[2024.05.28-05.24.16:008][580]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Puerta/idCARD/idCard_Base_Plane_002.idCard_Base_Plane_002
+[2024.05.28-05.24.45:632][113]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-05.24.45:632][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-05.26.21:300][682]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.28-05.26.21:305][682]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.28-05.26.30:993][682]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.28-05.26.31:004][682]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.28-05.26.31:064][682]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.28-05.26.36:060][723]LogContentBrowser: Attempting asset rename: NewBlueprint -> idCard
+[2024.05.28-05.26.36:084][723]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.28-05.26.42:372][796]Cmd: DELETE
+[2024.05.28-05.26.42:373][796]Cmd: ACTOR DELETE
+[2024.05.28-05.26.42:492][796]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.28-05.26.42:561][796]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2024.05.28-05.26.42:582][796]LogEditorActor: Deleted 1 Actors (0.121 secs)
+[2024.05.28-05.26.45:050][817]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/Puerta/idCARD/idCard.idCard
+[2024.05.28-05.26.54:106][918]LogSlate: Window 'idCard' being destroyed
+[2024.05.28-05.26.54:284][918]LogSlate: Window 'idCard' being destroyed
+[2024.05.28-05.26.54:300][918]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-05.26.54:301][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-05.26.57:627][949]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2024.05.28-05.27.00:114][949]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.28-05.27.00:225][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2024.05.28-05.27.15:453][106]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.28-05.27.15:457][106]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.05.28-05.27.22:832][106]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.28-05.27.22:951][106]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.28-05.27.22:970][106]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.28-05.27.27:379][143]LogContentBrowser: Attempting asset rename: NewBlueprint -> idCard
+[2024.05.28-05.27.27:400][143]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.28-05.27.30:610][167]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/Puerta/idCARD/idCard.idCard
+[2024.05.28-05.27.40:170][269]LogSlate: Window 'idCard' being destroyed
+[2024.05.28-05.29.17:294][960]BlueprintLog: New page: Compile idCard
+[2024.05.28-05.29.18:202][960]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2024.05.28-05.30.13:139][432]BlueprintLog: New page: Compile idCard
+[2024.05.28-05.30.13:422][432]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2024.05.28-05.30.14:183][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Puerta/idCARD/idCard" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/Puerta/idCARD/idCard.uasset" SILENT=true
+[2024.05.28-05.30.14:199][450]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/idCard228191F64593ED6639F77E99F9EB5DE5.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/Puerta/idCARD/idCard.uasset'
+[2024.05.28-05.30.14:232][450]AssetCheck: New page: Asset Save: idCard
+[2024.05.28-05.30.14:232][450]LogContentValidation: Display: Validating Blueprint /Game/Models/Puerta/idCARD/idCard.idCard
+[2024.05.28-05.32.15:435][692]BlueprintLog: New page: Compile idCard
+[2024.05.28-05.32.15:568][692]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2024.05.28-05.33.04:594][166]BlueprintLog: New page: Compile idCard
+[2024.05.28-05.33.04:751][166]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2024.05.28-05.33.06:019][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Puerta/idCARD/idCard" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/Puerta/idCARD/idCard.uasset" SILENT=true
+[2024.05.28-05.33.06:037][198]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/idCardE22C44FE42D0CF5BCA6065800A5ECF4B.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/Puerta/idCARD/idCard.uasset'
+[2024.05.28-05.33.06:073][198]AssetCheck: New page: Asset Save: idCard
+[2024.05.28-05.33.06:073][198]LogContentValidation: Display: Validating Blueprint /Game/Models/Puerta/idCARD/idCard.idCard
+[2024.05.28-05.33.22:354][691]BlueprintLog: New page: Compile idCard
+[2024.05.28-05.33.22:486][691]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2024.05.28-05.33.23:372][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Puerta/idCARD/idCard" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/Puerta/idCARD/idCard.uasset" SILENT=true
+[2024.05.28-05.33.23:387][712]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/idCardAA004CA2482E0DD6AB951D8B257539FA.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/Puerta/idCARD/idCard.uasset'
+[2024.05.28-05.33.23:415][712]AssetCheck: New page: Asset Save: idCard
+[2024.05.28-05.33.23:415][712]LogContentValidation: Display: Validating Blueprint /Game/Models/Puerta/idCARD/idCard.idCard
+[2024.05.28-05.33.51:085][ 97]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.28-05.35.18:462][122]BlueprintLog: New page: Compile idCard
+[2024.05.28-05.35.18:548][122]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2024.05.28-05.35.19:217][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Puerta/idCARD/idCard" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/Puerta/idCARD/idCard.uasset" SILENT=true
+[2024.05.28-05.35.19:236][155]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/idCard53F6B454487F5105289CFB865177548A.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/Puerta/idCARD/idCard.uasset'
+[2024.05.28-05.35.19:264][155]AssetCheck: New page: Asset Save: idCard
+[2024.05.28-05.35.19:264][155]LogContentValidation: Display: Validating Blueprint /Game/Models/Puerta/idCARD/idCard.idCard
+[2024.05.28-05.35.51:270][766]BlueprintLog: New page: Compile MainSWAT
+[2024.05.28-05.35.51:429][766]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2024.05.28-05.35.54:202][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/FINAL_SWAT/MainSWAT" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/FINAL_SWAT/MainSWAT.uasset" SILENT=true
+[2024.05.28-05.35.54:397][892]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/MainSWAT32516D544E0F3AD5D624D48C6E5CB9BE.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/FINAL_SWAT/MainSWAT.uasset'
+[2024.05.28-05.35.54:418][892]AssetCheck: New page: Asset Save: MainSWAT
+[2024.05.28-05.35.54:418][892]LogContentValidation: Display: Validating Blueprint /Game/Models/FINAL_SWAT/MainSWAT.MainSWAT
+[2024.05.28-05.36.26:148][719]BlueprintLog: New page: Compile idCard
+[2024.05.28-05.36.26:242][719]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2024.05.28-05.36.26:827][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Puerta/idCARD/idCard" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/Puerta/idCARD/idCard.uasset" SILENT=true
+[2024.05.28-05.36.26:843][745]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/idCard1D77C47A43A1111D1D2482932C5169DD.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/Puerta/idCARD/idCard.uasset'
+[2024.05.28-05.36.26:870][745]AssetCheck: New page: Asset Save: idCard
+[2024.05.28-05.36.26:870][745]LogContentValidation: Display: Validating Blueprint /Game/Models/Puerta/idCARD/idCard.idCard
+[2024.05.28-05.36.31:407][883]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2024.05.28-05.36.31:866][883]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/FirstPersonExampleMap9948E2E2437E126319BA79822A901A28.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2024.05.28-05.36.32:689][883]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/FirstPersonExampleMap_BuiltDataBFB2AB62423805AAD4DB62AB140BD52C.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2024.05.28-05.36.32:745][883]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.28-05.36.32:745][883]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2024.05.28-05.36.32:745][883]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2024.05.28-05.36.50:557][ 72]LogEditorViewport: Clicking on Actor (LMB): idCard_C (idCard)
+[2024.05.28-05.37.58:206][842]LogUObjectHash: Compacting FUObjectHashTables data took   7.90ms
+[2024.05.28-05.37.58:734][842]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/FirstPersonExampleMap691F60644F409FED9D53338CC082CD8D.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2024.05.28-05.37.59:169][842]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/FirstPersonExampleMap_BuiltData20E430C040F9DB5AE4CF6CA44A2B57B5.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2024.05.28-05.37.59:194][842]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.28-05.37.59:194][842]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2024.05.28-05.37.59:194][842]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2024.05.28-05.38.00:163][854]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.28-05.38.00:196][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.28-05.38.00:196][854]PIE: New page: PIE session: FirstPersonExampleMap (May 27, 2024, 6:38:00 PM)
+[2024.05.28-05.38.00:198][854]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.05.28-05.38.00:314][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115742s)
+[2024.05.28-05.38.00:315][854]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.05.28-05.38.00:316][854]LogPlayLevel: PIE: World Init took: (0.002299s)
+[2024.05.28-05.38.00:316][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.118363s)
+[2024.05.28-05.38.00:384][854]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2024.05.28-05.38.00:384][854]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2024.05.28-05.38.00:384][854]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.28-05.38.00:384][854]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.28-05.38.00:384][854]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.28-05.38.00:384][854]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.28-05.38.00:384][854]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.28-05.38.00:384][854]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.28-05.38.00:384][854]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.28-05.38.00:384][854]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.28-05.38.00:385][854]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.28-05.38.00:385][854]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.28-05.38.00:385][854]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.28-05.38.00:385][854]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.28-05.38.00:392][854]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.28-05.38.00:392][854]LogAudioMixer: Display: 1: FrontRight
+[2024.05.28-05.38.00:419][854]LogAudioMixer: Display: Using Audio Device Speakers (Realtek Audio)
+[2024.05.28-05.38.00:419][854]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.28-05.38.00:419][854]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.28-05.38.00:419][854]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.28-05.38.00:420][854]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.28-05.38.00:420][854]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.28-05.38.00:420][854]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.28-05.38.00:422][854]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.28-05.38.00:422][854]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.28-05.38.00:422][854]LogInit: FAudioDevice initialized.
+[2024.05.28-05.38.00:422][854]LogAudio: Display: Audio Device (ID: 52) registered with world 'FirstPersonExampleMap'.
+[2024.05.28-05.38.00:434][854]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.05.28-05.38.00:446][854]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2024.05.27-23.38.00
+[2024.05.28-05.38.00:447][854]LogWorld: Bringing up level for play took: 0.012923
+[2024.05.28-05.38.00:448][854]LogOnline: OSS: Creating online subsystem instance for: :Context_100
+[2024.05.28-05.38.00:459][854]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.28-05.38.00:459][854]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.28-05.38.00:459][854]PIE: Server logged in
+[2024.05.28-05.38.00:461][854]PIE: Play in editor total start time 0.285 seconds.
+[2024.05.28-05.38.00:466][854]LogAudio: Warning: Detected orphaned looping sound 'Ambient_Forest'.
+[2024.05.28-05.38.01:959][886]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.28-05.38.01:959][886]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.28-05.38.52:199][693]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.28-05.38.52:199][693]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.28-05.38.53:534][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-05.38.53:558][710]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.05.28-05.38.53:606][710]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-05.38.53:609][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-05.38.53:688][710]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.28-05.38.53:715][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-05.38.53:790][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-05.38.53:791][710]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-05.38.53:793][710]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-05.38.53:814][710]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2024.05.28-05.38.53:911][711]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2024.05.28-05.39.41:692][133]BlueprintLog: New page: Compile idCard
+[2024.05.28-05.39.41:789][133]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2024.05.28-05.39.42:520][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Puerta/idCARD/idCard" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/Puerta/idCARD/idCard.uasset" SILENT=true
+[2024.05.28-05.39.42:540][167]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/idCard25E126FE4314560644B774AFF8D5B270.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/Puerta/idCARD/idCard.uasset'
+[2024.05.28-05.39.42:567][167]AssetCheck: New page: Asset Save: idCard
+[2024.05.28-05.39.42:567][167]LogContentValidation: Display: Validating Blueprint /Game/Models/Puerta/idCARD/idCard.idCard
+[2024.05.28-05.39.47:304][265]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2024.05.28-05.39.47:674][265]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/FirstPersonExampleMapF5673E5A449A7D1B7A1B6BA55E8C9D00.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2024.05.28-05.39.48:025][265]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/FirstPersonExampleMap_BuiltDataCF6BB9984DFC41967FAC1DBEFADD2056.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2024.05.28-05.39.48:047][265]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.28-05.39.48:047][265]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2024.05.28-05.39.48:047][265]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2024.05.28-05.40.04:874][452]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2024.05.28-05.40.05:394][452]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/FirstPersonExampleMap28BE0A244F28D1F0B18908A688CE9CDA.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2024.05.28-05.40.05:866][452]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/FirstPersonExampleMap_BuiltData3F2A78AA48B26C867B1B0B97B4412CE8.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2024.05.28-05.40.05:891][452]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.28-05.40.05:891][452]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2024.05.28-05.40.05:891][452]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2024.05.28-05.41.21:941][639]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\ricky\Documents\Mis_Archivos\FCFM\6 sem\Videojuegos\Other\keycard_icon (1).png)
+[2024.05.28-05.41.21:983][639]LogTexture: Display: Building textures: keycard_icon__1_ (OODLE_AutoDXT, 512X512)
+[2024.05.28-05.43.28:329][693]BlueprintLog: New page: Compile UW_HUD
+[2024.05.28-05.43.28:418][693]LogBlueprint: Warning: [AssetLog] C:\Users\ricky\Documents\GitHub\videojuegosPIA\PIAVideojuegos\Content\HUD\UW_HUD.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2024.05.28-05.43.28:490][693]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2024.05.28-05.49.57:822][286]BlueprintLog: New page: Compile idCard
+[2024.05.28-05.49.57:829][286]LogBlueprint: Warning: [AssetLog] C:\Users\ricky\Documents\GitHub\videojuegosPIA\PIAVideojuegos\Content\Models\Puerta\idCARD\idCard.uasset: [Compiler] 'UW HUD' does not inherit from 'Primitive Component' ( Cast To UW_HUD  would always fail).
+[2024.05.28-05.49.57:931][286]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2024.05.28-05.50.11:219][ 57]BlueprintLog: New page: Compile idCard
+[2024.05.28-05.50.11:228][ 57]LogBlueprint: Error: [AssetLog] C:\Users\ricky\Documents\GitHub\videojuegosPIA\PIAVideojuegos\Content\Models\Puerta\idCARD\idCard.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To UW_HUD  to imply a specific type.
+[2024.05.28-05.50.11:229][ 57]LogBlueprint: Error: [AssetLog] C:\Users\ricky\Documents\GitHub\videojuegosPIA\PIAVideojuegos\Content\Models\Puerta\idCARD\idCard.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2024.05.28-05.50.11:342][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2024.05.28-05.50.38:613][661]BlueprintLog: New page: Compile idCard
+[2024.05.28-05.50.38:617][661]LogBlueprint: Warning: [AssetLog] C:\Users\ricky\Documents\GitHub\videojuegosPIA\PIAVideojuegos\Content\Models\Puerta\idCARD\idCard.uasset: [Compiler] 'UW HUD' does not inherit from 'Actor' ( Cast To UW_HUD  would always fail).
+[2024.05.28-05.50.38:702][661]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2024.05.28-05.51.04:173][ 18]LogEditorTransaction: Undo Move Nodes
+[2024.05.28-05.51.04:295][ 18]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: B09A9050F492F3CD8D8360ACEA4BEA0133B6F462), compiling. 
+[2024.05.28-05.51.04:477][ 18]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.28-05.51.04:477][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.05.28-05.51.04:477][ 18]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-05.51.04:875][ 34]LogEditorTransaction: Undo Break Pin Links
+[2024.05.28-05.51.04:902][ 34]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 7A906F9B47500B3FA8FCBDC2D924BE3CFF693DF7), compiling. 
+[2024.05.28-05.51.05:734][ 77]LogEditorTransaction: Undo Create Pin Link
+[2024.05.28-05.51.05:754][ 77]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 5A151CB2D5DFECB99C0D1D5305CA090B524BB305), compiling. 
+[2024.05.28-05.51.06:686][132]LogEditorTransaction: Undo Delete current selection
+[2024.05.28-05.51.06:709][132]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: E2AC575D086901C1CE3CC8160FCEB305BDDE6729), compiling. 
+[2024.05.28-05.51.07:210][159]LogEditorTransaction: Undo Create Pin Link
+[2024.05.28-05.51.07:243][159]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 83DACA6EEFBFC6A363B3D6B0F93693748F30DB31), compiling. 
+[2024.05.28-05.51.07:720][186]LogEditorTransaction: Undo Move Node
+[2024.05.28-05.51.07:742][186]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: ED70B566FE1B90C6BBC5339751AB6F7B466BFDCF), compiling. 
+[2024.05.28-05.51.08:237][214]LogEditorTransaction: Undo Create Pin Link
+[2024.05.28-05.51.08:263][214]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: C39AC275EE5A4401F293E0563CA8495B674B5DD9), compiling. 
+[2024.05.28-05.51.08:936][253]LogEditorTransaction: Undo Move Node
+[2024.05.28-05.51.08:961][253]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 22E5501C0C8C51CC4C8236441B93FB1784F10E71), compiling. 
+[2024.05.28-05.51.09:471][282]LogEditorTransaction: Undo Move Node
+[2024.05.28-05.51.09:498][282]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 756062988E13035CAA94D60BFA2C91D4F599EDDF), compiling. 
+[2024.05.28-05.51.09:960][309]LogEditorTransaction: Undo Move Node
+[2024.05.28-05.51.09:984][309]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 68819F70A6BDD62B2AEF09E23C246D87FE9567B3), compiling. 
+[2024.05.28-05.51.10:397][333]LogEditorTransaction: Undo Move Node
+[2024.05.28-05.51.10:422][333]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: F26B5A9FCD6358FF6758C7DAA50DE73F7BA1FC7E), compiling. 
+[2024.05.28-05.51.10:903][361]LogEditorTransaction: Undo Move Node
+[2024.05.28-05.51.10:927][361]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 1AEEC5B7F62F6BF78B48C3FD10802ED86270BADA), compiling. 
+[2024.05.28-05.51.11:374][387]LogEditorTransaction: Undo Add Node
+[2024.05.28-05.51.11:401][387]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 95CFF1CEBA8BC9117BB4124C9C3DC2DD94B0C521), compiling. 
+[2024.05.28-05.51.11:784][409]LogEditorTransaction: Undo Move Node
+[2024.05.28-05.51.11:808][409]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 14E73ED5ED8836C782FD2741C90251253DBC6F3C), compiling. 
+[2024.05.28-05.51.12:301][437]LogEditorTransaction: Undo Add Node
+[2024.05.28-05.51.12:326][437]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 37D46748DDCF80B7549DE7E7392C8C2B5662B834), compiling. 
+[2024.05.28-05.51.12:752][461]LogEditorTransaction: Undo Move Node
+[2024.05.28-05.51.12:773][461]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 77128BEAA93B208C8E8F8B4C775A88CF618B0FBF), compiling. 
+[2024.05.28-05.51.13:170][483]LogEditorTransaction: Undo Move Node
+[2024.05.28-05.51.13:190][483]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 3350CD878AB2DF7215E75F29E7404710ECE3AF40), compiling. 
+[2024.05.28-05.51.13:702][513]LogEditorTransaction: Undo Create Reroute Node
+[2024.05.28-05.51.13:728][513]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 5AA72906D04D6DD6B7D7EA0F5EB35372FE2B6689), compiling. 
+[2024.05.28-05.51.14:132][536]LogEditorTransaction: Undo Create Pin Link
+[2024.05.28-05.51.14:168][536]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 9F6C4060BA92395AEC043CBC8A8E1BABC39F126B), compiling. 
+[2024.05.28-05.53.08:549][210]BlueprintLog: New page: Compile idCard
+[2024.05.28-05.53.08:553][210]LogBlueprint: Warning: [AssetLog] C:\Users\ricky\Documents\GitHub\videojuegosPIA\PIAVideojuegos\Content\Models\Puerta\idCARD\idCard.uasset: [Compiler] 'UW HUD' does not inherit from 'Main SWAT' ( Cast To UW_HUD  would always fail).
+[2024.05.28-05.53.08:557][210]LogBlueprint: Error: [AssetLog] C:\Users\ricky\Documents\GitHub\videojuegosPIA\PIAVideojuegos\Content\Models\Puerta\idCARD\idCard.uasset: [Compiler] This blueprint (self) is not a UW_HUD_C, therefore ' Target ' must have a connection.
+[2024.05.28-05.53.08:558][210]LogBlueprint: Error: [AssetLog] C:\Users\ricky\Documents\GitHub\videojuegosPIA\PIAVideojuegos\Content\Models\Puerta\idCARD\idCard.uasset: [Compiler] Variable node  Get As Main SWAT  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.05.28-05.53.08:655][210]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2024.05.28-05.53.37:962][528]LogEditorTransaction: Undo Delete current selection
+[2024.05.28-05.53.37:982][528]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: D86680088D20EDFBF3CC6203E9CA26444602AB9E), compiling. 
+[2024.05.28-05.53.39:230][587]LogEditorTransaction: Undo Move Node
+[2024.05.28-05.53.39:260][587]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: A362445167A90C6B4EC25CD57332B1292E8630CD), compiling. 
+[2024.05.28-05.53.40:571][657]LogEditorTransaction: Undo Add Node
+[2024.05.28-05.53.40:599][657]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: C913BD9EE3A66A43A5E648A92C7D591EF7E41601), compiling. 
+[2024.05.28-05.54.43:366][696]BlueprintLog: New page: Compile idCard
+[2024.05.28-05.54.43:460][696]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2024.05.28-05.54.45:531][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Puerta/idCARD/idCard" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/Puerta/idCARD/idCard.uasset" SILENT=true
+[2024.05.28-05.54.45:558][802]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/idCardA0338BD24279FCEC94476E97CAC1C082.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/Puerta/idCARD/idCard.uasset'
+[2024.05.28-05.54.45:586][802]AssetCheck: New page: Asset Save: idCard
+[2024.05.28-05.54.45:586][802]LogContentValidation: Display: Validating Blueprint /Game/Models/Puerta/idCARD/idCard.idCard
+[2024.05.28-05.56.34:342][107]BlueprintLog: New page: Compile UW_HUD
+[2024.05.28-05.56.34:423][107]LogBlueprint: Error: [AssetLog] C:\Users\ricky\Documents\GitHub\videojuegosPIA\PIAVideojuegos\Content\HUD\UW_HUD.uasset: [Compiler] Binding: Property ' /Script/UMG.Image:OnMouseButtonDownEvent ' on Widget ' Image_113 ': Binding: 'None' : 'None' was not found on 'UW HUD'.
+[2024.05.28-05.56.34:423][107]LogBlueprint: Error: [AssetLog] C:\Users\ricky\Documents\GitHub\videojuegosPIA\PIAVideojuegos\Content\HUD\UW_HUD.uasset: [Compiler] Binding: Property ' /Script/UMG.Widget:ToolTipWidgetDelegate ' on Widget ' Image_113 ': Binding: 'None' : 'None' was not found on 'UW HUD'.
+[2024.05.28-05.56.34:484][107]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2024.05.28-05.56.42:060][546]LogBlueprint: Warning: Unknown type of hyperlinked object (Image_113), cannot focus it
+[2024.05.28-05.56.42:685][583]LogBlueprint: Warning: Unknown type of hyperlinked object (Image_113), cannot focus it
+[2024.05.28-05.56.43:251][617]LogBlueprint: Warning: Unknown type of hyperlinked object (Image_113), cannot focus it
+[2024.05.28-05.56.43:418][627]LogBlueprint: Warning: Unknown type of hyperlinked object (Image_113), cannot focus it
+[2024.05.28-05.56.46:578][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/UW_HUD" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/UW_HUD.uasset" SILENT=true
+[2024.05.28-05.56.46:612][809]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/UW_HUDD4CF519146D2D743DE7904A45C92DAEE.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/UW_HUD.uasset'
+[2024.05.28-05.56.46:645][809]AssetCheck: New page: Asset Save: UW_HUD
+[2024.05.28-05.56.46:645][809]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/UW_HUD.UW_HUD
+[2024.05.28-05.56.58:047][471]LogBlueprint: Warning: Unknown type of hyperlinked object (Image_113), cannot focus it
+[2024.05.28-05.57.03:240][781]LogBlueprint: Warning: Unknown type of hyperlinked object (Image_113), cannot focus it
+[2024.05.28-05.57.03:424][792]LogBlueprint: Warning: Unknown type of hyperlinked object (Image_113), cannot focus it
+[2024.05.28-05.57.03:907][821]LogBlueprint: Warning: Unknown type of hyperlinked object (Image_113), cannot focus it
+[2024.05.28-05.57.04:108][833]LogBlueprint: Warning: Unknown type of hyperlinked object (Image_113), cannot focus it
+[2024.05.28-05.57.15:695][507]BlueprintLog: New page: Compile UW_HUD
+[2024.05.28-05.57.15:705][507]LogBlueprint: Error: [AssetLog] C:\Users\ricky\Documents\GitHub\videojuegosPIA\PIAVideojuegos\Content\HUD\UW_HUD.uasset: [Compiler] Binding: Property ' /Script/UMG.Image:OnMouseButtonDownEvent ' on Widget ' Image_113 ': Binding: 'None' : 'None' was not found on 'UW HUD'.
+[2024.05.28-05.57.15:705][507]LogBlueprint: Error: [AssetLog] C:\Users\ricky\Documents\GitHub\videojuegosPIA\PIAVideojuegos\Content\HUD\UW_HUD.uasset: [Compiler] Binding: Property ' /Script/UMG.Widget:ToolTipWidgetDelegate ' on Widget ' Image_113 ': Binding: 'None' : 'None' was not found on 'UW HUD'.
+[2024.05.28-05.57.15:792][507]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2024.05.28-05.57.23:800][974]LogEditorTransaction: Undo Move Node
+[2024.05.28-05.57.23:819][974]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 62F5E5254DECD20E105F08F710B029BFB676D0D4), compiling. 
+[2024.05.28-05.57.24:151][984]LogEditorTransaction: Undo Move Node
+[2024.05.28-05.57.24:157][984]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 4037830D6AE0E1D41D8E94982F7F852393250B70), compiling. 
+[2024.05.28-05.57.24:384][992]LogEditorTransaction: Undo Create Pin Link
+[2024.05.28-05.57.24:397][992]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 37217BB42078E42B63B25D9BE7561531FFA886AC), compiling. 
+[2024.05.28-05.57.24:991][ 26]LogEditorTransaction: Undo Move Node
+[2024.05.28-05.57.25:000][ 26]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 72B7F6D62E1710A6AF0E2186EA419E91040B4885), compiling. 
+[2024.05.28-05.57.25:338][ 46]LogEditorTransaction: Undo Move Nodes
+[2024.05.28-05.57.25:349][ 46]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 58DDA5BFE93E0BD74C57D0102081C9FF0A0028D7), compiling. 
+[2024.05.28-05.57.25:688][ 66]LogEditorTransaction: Undo Move Node
+[2024.05.28-05.57.25:696][ 66]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 1D4042F1F075D34D724F44C0F6C300A1156F32E5), compiling. 
+[2024.05.28-05.57.26:054][ 87]LogEditorTransaction: Undo Add Node
+[2024.05.28-05.57.26:064][ 87]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 1D5441B55792AAF4BF03F10CEB7BA2525C761426), compiling. 
+[2024.05.28-05.57.26:387][106]LogEditorTransaction: Undo Add Node
+[2024.05.28-05.57.26:394][106]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 55ACB659889DB7474FAE80B1A410EE4745BE158F), compiling. 
+[2024.05.28-05.57.26:713][125]LogEditorTransaction: Undo Add Node
+[2024.05.28-05.57.26:722][125]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 9D9AE7680058D972B968EC4248BC7DBDBFE7657A), compiling. 
+[2024.05.28-05.57.27:129][149]LogEditorTransaction: Undo Move Node
+[2024.05.28-05.57.27:139][149]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: AD6931ADA54536C1F3375A0E0047A52DE8BF1580), compiling. 
+[2024.05.28-05.57.27:523][171]LogEditorTransaction: Undo Create Binding
+[2024.05.28-05.57.27:557][171]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 312C4B45BB062CDCC679A46257F0C18B04612B59), compiling. 
+[2024.05.28-05.57.27:970][195]LogEditorTransaction: Undo Remove Graph
+[2024.05.28-05.57.27:978][195]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: FDD5B7AAACE1EE489560256344DF232D11D1927D), compiling. 
+[2024.05.28-05.57.28:424][220]LogEditorTransaction: Undo Delete current selection
+[2024.05.28-05.57.28:438][220]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 58DF731839FC14110FAEF3CB7C360AB7AA79BF5B), compiling. 
+[2024.05.28-05.57.29:229][265]LogEditorTransaction: Undo Move Node
+[2024.05.28-05.57.29:239][265]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 130C4C2CE62BE641D0AF74FA40D5A7A21160BDB0), compiling. 
+[2024.05.28-05.57.29:790][297]LogEditorTransaction: Undo Move Node
+[2024.05.28-05.57.29:803][297]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: FC01F166153B14FFD3C633BF51DBDE97AE6AFB78), compiling. 
+[2024.05.28-05.57.30:276][325]LogEditorTransaction: Undo Create Binding
+[2024.05.28-05.57.30:288][325]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 7DF6A1A76E548C6F9819255F5C85F7E5DDC460CA), compiling. 
+[2024.05.28-05.57.30:687][348]LogEditorTransaction: Undo Remove Graph
+[2024.05.28-05.57.30:700][348]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 5E5B86BF7B822EBF50A4BBB89C2793505A3A514F), compiling. 
+[2024.05.28-05.57.32:020][427]LogEditorTransaction: Undo Delete current selection
+[2024.05.28-05.57.32:032][427]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 4FAFE94908EDFA55EC904BF5682B599CE1453A18), compiling. 
+[2024.05.28-05.57.33:253][500]LogEditorTransaction: Undo Move Node
+[2024.05.28-05.57.33:266][500]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 5C148E1C8CE55494294626F9AAD9D0842C801A35), compiling. 
+[2024.05.28-05.57.38:508][813]Cmd: TRANSACTION REDO
+[2024.05.28-05.57.38:509][813]LogEditorTransaction: Redo Move Node
+[2024.05.28-05.57.38:530][813]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 2885D9C929DA30F99F73DA02E761B69602D24B1F), compiling. 
+[2024.05.28-05.57.43:114][ 66]BlueprintLog: New page: Compile idCard
+[2024.05.28-05.57.43:214][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2024.05.28-05.57.44:413][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Puerta/idCARD/idCard" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/Puerta/idCARD/idCard.uasset" SILENT=true
+[2024.05.28-05.57.44:435][131]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/idCard0B6DC24D469038D8AF0102A45C68B7BE.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/Puerta/idCARD/idCard.uasset'
+[2024.05.28-05.57.44:452][131]AssetCheck: New page: Asset Save: idCard
+[2024.05.28-05.57.44:452][131]LogContentValidation: Display: Validating Blueprint /Game/Models/Puerta/idCARD/idCard.idCard
+[2024.05.28-05.57.49:345][412]BlueprintLog: New page: Compile UW_HUD
+[2024.05.28-05.57.49:351][412]LogBlueprint: Warning: [AssetLog] C:\Users\ricky\Documents\GitHub\videojuegosPIA\PIAVideojuegos\Content\HUD\UW_HUD.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2024.05.28-05.57.49:406][412]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2024.05.28-05.58.02:258][152]BlueprintLog: New page: Compile UW_HUD
+[2024.05.28-05.58.02:266][152]LogBlueprint: Error: [AssetLog] C:\Users\ricky\Documents\GitHub\videojuegosPIA\PIAVideojuegos\Content\HUD\UW_HUD.uasset: [Compiler] Binding: Property ' /Script/UMG.Image:OnMouseButtonDownEvent ' on Widget ' Image_113 ': Unknown Error
+[2024.05.28-05.58.02:324][152]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2024.05.28-05.58.05:976][359]LogEditorTransaction: Undo Delete current selection
+[2024.05.28-05.58.05:992][359]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 8A62E121906C703A63A587EC2AF4FA8200A45CA6), compiling. 
+[2024.05.28-05.58.15:789][898]BlueprintLog: New page: Compile UW_HUD
+[2024.05.28-05.58.15:796][898]LogBlueprint: Warning: [AssetLog] C:\Users\ricky\Documents\GitHub\videojuegosPIA\PIAVideojuegos\Content\HUD\UW_HUD.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2024.05.28-05.58.15:855][898]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2024.05.28-05.58.39:886][287]BlueprintLog: New page: Compile UW_HUD
+[2024.05.28-05.58.39:893][287]LogBlueprint: Warning: [AssetLog] C:\Users\ricky\Documents\GitHub\videojuegosPIA\PIAVideojuegos\Content\HUD\UW_HUD.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2024.05.28-05.58.39:949][287]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2024.05.28-05.59.13:696][223]BlueprintLog: New page: Compile UW_HUD
+[2024.05.28-05.59.13:830][223]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2024.05.28-06.00.02:718][ 36]BlueprintLog: New page: Compile UW_HUD
+[2024.05.28-06.00.02:781][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2024.05.28-06.00.03:706][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/UW_HUD" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/UW_HUD.uasset" SILENT=true
+[2024.05.28-06.00.03:740][ 78]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/UW_HUD15B367114798E8C048C903A8C9B16338.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/UW_HUD.uasset'
+[2024.05.28-06.00.03:771][ 78]AssetCheck: New page: Asset Save: UW_HUD
+[2024.05.28-06.00.03:771][ 78]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/UW_HUD.UW_HUD
+[2024.05.28-06.00.18:129][254]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2024.05.28-06.00.18:563][254]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/FirstPersonExampleMap4AFCB89C412002FBA9669E9D2EB68D32.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2024.05.28-06.00.18:998][254]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/FirstPersonExampleMap_BuiltData6C451583410A14A7EF2A32AFE9B625A8.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2024.05.28-06.00.19:024][254]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.28-06.00.19:024][254]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2024.05.28-06.00.19:024][254]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2024.05.28-06.00.20:217][269]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.28-06.00.20:250][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.28-06.00.20:250][269]PIE: New page: PIE session: FirstPersonExampleMap (May 27, 2024, 7:00:20 PM)
+[2024.05.28-06.00.20:252][269]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.05.28-06.00.20:370][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117013s)
+[2024.05.28-06.00.20:372][269]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.05.28-06.00.20:372][269]LogPlayLevel: PIE: World Init took: (0.002512s)
+[2024.05.28-06.00.20:372][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.119791s)
+[2024.05.28-06.00.20:444][269]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2024.05.28-06.00.20:448][269]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2024.05.28-06.00.20:448][269]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.28-06.00.20:448][269]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.28-06.00.20:448][269]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.28-06.00.20:448][269]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.28-06.00.20:448][269]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.28-06.00.20:448][269]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.28-06.00.20:448][269]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.28-06.00.20:448][269]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.28-06.00.20:449][269]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.28-06.00.20:449][269]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.28-06.00.20:449][269]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.28-06.00.20:449][269]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.28-06.00.20:459][269]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.28-06.00.20:459][269]LogAudioMixer: Display: 1: FrontRight
+[2024.05.28-06.00.20:486][269]LogAudioMixer: Display: Using Audio Device Speakers (Realtek Audio)
+[2024.05.28-06.00.20:487][269]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.28-06.00.20:487][269]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.28-06.00.20:487][269]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.28-06.00.20:489][269]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.28-06.00.20:489][269]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.28-06.00.20:489][269]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.28-06.00.20:490][269]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.28-06.00.20:490][269]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.28-06.00.20:490][269]LogInit: FAudioDevice initialized.
+[2024.05.28-06.00.20:490][269]LogAudio: Display: Audio Device (ID: 53) registered with world 'FirstPersonExampleMap'.
+[2024.05.28-06.00.20:505][269]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.05.28-06.00.20:515][269]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2024.05.28-00.00.20
+[2024.05.28-06.00.20:516][269]LogWorld: Bringing up level for play took: 0.010482
+[2024.05.28-06.00.20:517][269]LogOnline: OSS: Creating online subsystem instance for: :Context_102
+[2024.05.28-06.00.20:526][269]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.28-06.00.20:526][269]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.28-06.00.20:526][269]PIE: Server logged in
+[2024.05.28-06.00.20:527][269]PIE: Play in editor total start time 0.285 seconds.
+[2024.05.28-06.00.20:532][269]LogAudio: Warning: Detected orphaned looping sound 'Ambient_Forest'.
+[2024.05.28-06.00.21:762][295]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.28-06.00.21:762][295]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.28-06.00.25:507][365]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.28-06.00.25:507][365]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.28-06.00.26:694][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-06.00.26:709][390]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.05.28-06.00.26:764][390]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-06.00.26:766][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-06.00.26:786][390]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.28-06.00.26:806][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-06.00.26:860][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-06.00.26:860][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-06.00.26:862][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-06.00.26:878][390]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2024.05.28-06.00.26:995][391]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2024.05.28-06.00.57:130][954]BlueprintLog: New page: Compile MainSWAT
+[2024.05.28-06.00.57:293][954]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2024.05.28-06.00.58:301][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/FINAL_SWAT/MainSWAT" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/FINAL_SWAT/MainSWAT.uasset" SILENT=true
+[2024.05.28-06.00.58:511][980]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/MainSWATA5D471E44533FA51DD3AA78CAE783746.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/FINAL_SWAT/MainSWAT.uasset'
+[2024.05.28-06.00.58:532][980]AssetCheck: New page: Asset Save: MainSWAT
+[2024.05.28-06.00.58:532][980]LogContentValidation: Display: Validating Blueprint /Game/Models/FINAL_SWAT/MainSWAT.MainSWAT
+[2024.05.28-06.01.00:707][106]BlueprintLog: New page: Compile UW_HUD
+[2024.05.28-06.01.00:844][106]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2024.05.28-06.01.01:560][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/UW_HUD" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/UW_HUD.uasset" SILENT=true
+[2024.05.28-06.01.01:589][135]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/UW_HUD397706174C11C33499D8548966D8FCA6.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/UW_HUD.uasset'
+[2024.05.28-06.01.01:608][135]AssetCheck: New page: Asset Save: UW_HUD
+[2024.05.28-06.01.01:608][135]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/UW_HUD.UW_HUD
+[2024.05.28-06.01.18:546][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2024.05.28-06.01.18:922][ 54]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/FirstPersonExampleMap9E9ED9D245E47E16C9A020A705E5204D.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2024.05.28-06.01.19:276][ 54]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/FirstPersonExampleMap_BuiltDataD3CA8CA34E10FADCE438FB82B8582906.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2024.05.28-06.01.19:294][ 54]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.28-06.01.19:295][ 54]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2024.05.28-06.01.19:295][ 54]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2024.05.28-06.01.19:673][ 64]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.28-06.01.19:693][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.28-06.01.19:693][ 64]PIE: New page: PIE session: FirstPersonExampleMap (May 27, 2024, 7:01:19 PM)
+[2024.05.28-06.01.19:698][ 64]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.05.28-06.01.19:798][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100728s)
+[2024.05.28-06.01.19:800][ 64]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.05.28-06.01.19:800][ 64]LogPlayLevel: PIE: World Init took: (0.001902s)
+[2024.05.28-06.01.19:800][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.102876s)
+[2024.05.28-06.01.19:849][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2024.05.28-06.01.19:849][ 64]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2024.05.28-06.01.19:849][ 64]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.28-06.01.19:849][ 64]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.28-06.01.19:849][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.28-06.01.19:849][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.28-06.01.19:849][ 64]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.28-06.01.19:849][ 64]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.28-06.01.19:850][ 64]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.28-06.01.19:850][ 64]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.28-06.01.19:850][ 64]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.28-06.01.19:850][ 64]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.28-06.01.19:850][ 64]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.28-06.01.19:850][ 64]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.28-06.01.19:853][ 64]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.28-06.01.19:853][ 64]LogAudioMixer: Display: 1: FrontRight
+[2024.05.28-06.01.19:876][ 64]LogAudioMixer: Display: Using Audio Device Speakers (Realtek Audio)
+[2024.05.28-06.01.19:876][ 64]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.28-06.01.19:877][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.28-06.01.19:877][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.28-06.01.19:877][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.28-06.01.19:877][ 64]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.28-06.01.19:877][ 64]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.28-06.01.19:879][ 64]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.28-06.01.19:879][ 64]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.28-06.01.19:879][ 64]LogInit: FAudioDevice initialized.
+[2024.05.28-06.01.19:879][ 64]LogAudio: Display: Audio Device (ID: 54) registered with world 'FirstPersonExampleMap'.
+[2024.05.28-06.01.19:888][ 64]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.05.28-06.01.19:898][ 64]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2024.05.28-00.01.19
+[2024.05.28-06.01.19:899][ 64]LogWorld: Bringing up level for play took: 0.009675
+[2024.05.28-06.01.19:899][ 64]LogOnline: OSS: Creating online subsystem instance for: :Context_103
+[2024.05.28-06.01.19:907][ 64]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.28-06.01.19:907][ 64]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.28-06.01.19:908][ 64]PIE: Server logged in
+[2024.05.28-06.01.19:909][ 64]PIE: Play in editor total start time 0.225 seconds.
+[2024.05.28-06.01.19:913][ 64]LogAudio: Warning: Detected orphaned looping sound 'Ambient_Forest'.
+[2024.05.28-06.01.21:073][ 91]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.28-06.01.21:073][ 91]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.28-06.02.07:073][836]LogBlueprintUserMessages: [idCard_2] Llave de Laboratorio
+[2024.05.28-06.02.10:809][880]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.28-06.02.10:809][880]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.28-06.02.12:247][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-06.02.12:270][902]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.05.28-06.02.12:314][902]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-06.02.12:317][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-06.02.12:379][902]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.28-06.02.12:404][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-06.02.12:475][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-06.02.12:476][902]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-06.02.12:478][902]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-06.02.12:498][902]LogUObjectHash: Compacting FUObjectHashTables data took   7.05ms
+[2024.05.28-06.02.12:619][903]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2024.05.28-06.02.37:496][308]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-06.02.37:496][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-06.02.37:930][310]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.28-06.02.37:930][310]LogShaderCompilers: Display: Total job queries 851, among them cache hits 481 (56.52%)
+[2024.05.28-06.02.37:930][310]LogShaderCompilers: Display: Tracking 246 distinct input hashes that result in 67 distinct outputs (27.24%)
+[2024.05.28-06.02.37:932][310]LogShaderCompilers: Display: RAM used: 0.32 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.08%
+[2024.05.28-06.02.37:932][310]LogShaderCompilers: Display: ================================================
+[2024.05.28-06.02.37:956][311]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.28-06.02.37:956][311]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.05.28-06.02.37:956][311]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-06.02.37:979][312]MaterialEditorStats: Default UI Pixel Shader: 33 instructions
+[2024.05.28-06.02.37:979][312]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2024.05.28-06.02.37:979][312]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2024.05.28-06.02.37:979][312]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.28-06.02.37:979][312]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.05.28-06.02.37:979][312]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-06.02.56:404][391]BlueprintLog: New page: Compile UW_HUD
+[2024.05.28-06.02.56:539][391]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2024.05.28-06.02.57:220][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/UW_HUD" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/UW_HUD.uasset" SILENT=true
+[2024.05.28-06.02.57:248][416]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/UW_HUDD81731454D80F15309D7D18E6E35FDB7.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/UW_HUD.uasset'
+[2024.05.28-06.02.57:273][416]AssetCheck: New page: Asset Save: UW_HUD
+[2024.05.28-06.02.57:273][416]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/UW_HUD.UW_HUD
+[2024.05.28-06.03.28:581][247]LogEditorTransaction: Undo Move Node
+[2024.05.28-06.03.28:599][247]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: F09748101C4EAE4DAF9808722F7411EAA6A5623C), compiling. 
+[2024.05.28-06.03.28:610][247]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.28-06.03.28:610][247]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.05.28-06.03.28:610][247]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-06.03.29:062][260]LogEditorTransaction: Undo Move Node
+[2024.05.28-06.03.29:073][260]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: A8EC4350D772F8D43EC1DC5A5F03D4813D1B8C0D), compiling. 
+[2024.05.28-06.03.30:312][325]BlueprintLog: New page: Compile UW_HUD
+[2024.05.28-06.03.30:395][325]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2024.05.28-06.03.31:049][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/UW_HUD" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/UW_HUD.uasset" SILENT=true
+[2024.05.28-06.03.31:079][353]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/UW_HUD450494D8413ABD132CF0649D254D6AE2.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/UW_HUD.uasset'
+[2024.05.28-06.03.31:100][353]AssetCheck: New page: Asset Save: UW_HUD
+[2024.05.28-06.03.31:100][353]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/UW_HUD.UW_HUD
+[2024.05.28-06.03.45:935][228]LogEditorTransaction: Undo Move Node
+[2024.05.28-06.03.45:954][228]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: B400E0AADABC657CBDD4B54D8ADC401B7D42294A), compiling. 
+[2024.05.28-06.03.47:741][313]BlueprintLog: New page: Compile UW_HUD
+[2024.05.28-06.03.47:824][313]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2024.05.28-06.03.48:479][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/UW_HUD" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/UW_HUD.uasset" SILENT=true
+[2024.05.28-06.03.48:512][341]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/UW_HUD21F5984747F0076D2464049595A3E8EF.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/UW_HUD.uasset'
+[2024.05.28-06.03.48:532][341]AssetCheck: New page: Asset Save: UW_HUD
+[2024.05.28-06.03.48:532][341]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/UW_HUD.UW_HUD
+[2024.05.28-06.04.16:545][978]BlueprintLog: New page: Compile UW_HUD
+[2024.05.28-06.04.16:633][978]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2024.05.28-06.04.18:705][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/UW_HUD" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/UW_HUD.uasset" SILENT=true
+[2024.05.28-06.04.18:737][ 92]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/UW_HUDB7676F084EB4FA9CFC9B3F87C2005B10.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/UW_HUD.uasset'
+[2024.05.28-06.04.18:755][ 92]AssetCheck: New page: Asset Save: UW_HUD
+[2024.05.28-06.04.18:756][ 92]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/UW_HUD.UW_HUD
+[2024.05.28-06.04.46:456][630]BlueprintLog: New page: Compile UW_HUD
+[2024.05.28-06.04.46:618][630]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2024.05.28-06.04.47:284][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/UW_HUD" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/UW_HUD.uasset" SILENT=true
+[2024.05.28-06.04.47:317][655]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/UW_HUD42AB43B544A0D17794064AAEE81507F1.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/UW_HUD.uasset'
+[2024.05.28-06.04.47:333][655]AssetCheck: New page: Asset Save: UW_HUD
+[2024.05.28-06.04.47:334][655]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/UW_HUD.UW_HUD
+[2024.05.28-06.05.36:276][475]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.28-06.05.36:295][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.28-06.05.36:295][475]PIE: New page: PIE session: FirstPersonExampleMap (May 27, 2024, 7:05:36 PM)
+[2024.05.28-06.05.36:295][475]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.05.28-06.05.36:404][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.108389s)
+[2024.05.28-06.05.36:408][475]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.05.28-06.05.36:409][475]LogPlayLevel: PIE: World Init took: (0.004139s)
+[2024.05.28-06.05.36:409][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.113014s)
+[2024.05.28-06.05.36:466][475]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2024.05.28-06.05.36:468][475]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2024.05.28-06.05.36:468][475]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.28-06.05.36:468][475]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.28-06.05.36:468][475]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.28-06.05.36:468][475]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.28-06.05.36:468][475]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.28-06.05.36:468][475]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.28-06.05.36:468][475]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.28-06.05.36:468][475]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.28-06.05.36:468][475]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.28-06.05.36:468][475]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.28-06.05.36:468][475]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.28-06.05.36:468][475]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.28-06.05.36:472][475]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.28-06.05.36:472][475]LogAudioMixer: Display: 1: FrontRight
+[2024.05.28-06.05.36:499][475]LogAudioMixer: Display: Using Audio Device Speakers (Realtek Audio)
+[2024.05.28-06.05.36:499][475]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.28-06.05.36:499][475]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.28-06.05.36:499][475]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.28-06.05.36:500][475]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.28-06.05.36:500][475]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.28-06.05.36:500][475]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.28-06.05.36:502][475]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.28-06.05.36:502][475]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.28-06.05.36:502][475]LogInit: FAudioDevice initialized.
+[2024.05.28-06.05.36:502][475]LogAudio: Display: Audio Device (ID: 55) registered with world 'FirstPersonExampleMap'.
+[2024.05.28-06.05.36:512][475]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.05.28-06.05.36:522][475]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2024.05.28-00.05.36
+[2024.05.28-06.05.36:523][475]LogWorld: Bringing up level for play took: 0.010774
+[2024.05.28-06.05.36:523][475]LogOnline: OSS: Creating online subsystem instance for: :Context_104
+[2024.05.28-06.05.36:530][475]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.28-06.05.36:530][475]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.28-06.05.36:531][475]PIE: Server logged in
+[2024.05.28-06.05.36:532][475]PIE: Play in editor total start time 0.244 seconds.
+[2024.05.28-06.05.36:536][475]LogAudio: Warning: Detected orphaned looping sound 'Ambient_Forest'.
+[2024.05.28-06.05.37:650][500]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.28-06.05.37:650][500]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.28-06.06.22:836][247]LogBlueprintUserMessages: [idCard_2] Llave de Laboratorio
+[2024.05.28-06.06.44:716][539]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.28-06.06.44:716][539]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.28-06.06.48:595][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-06.06.48:616][594]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.05.28-06.06.48:675][594]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-06.06.48:678][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-06.06.48:729][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.28-06.06.48:758][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-06.06.48:832][594]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.28-06.06.48:833][594]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-06.06.48:835][594]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-06.06.48:843][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-06.06.48:861][594]LogUObjectHash: Compacting FUObjectHashTables data took   6.48ms
+[2024.05.28-06.06.48:923][595]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2024.05.28-06.08.03:409][962]BlueprintLog: New page: Compile UW_HUD
+[2024.05.28-06.08.03:546][962]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2024.05.28-06.08.04:354][996]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.28-06.08.04:369][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.28-06.08.04:369][996]PIE: New page: PIE session: FirstPersonExampleMap (May 27, 2024, 7:08:04 PM)
+[2024.05.28-06.08.04:373][996]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.05.28-06.08.04:435][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061563s)
+[2024.05.28-06.08.04:436][996]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.05.28-06.08.04:436][996]LogPlayLevel: PIE: World Init took: (0.001266s)
+[2024.05.28-06.08.04:436][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.063043s)
+[2024.05.28-06.08.04:482][996]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2024.05.28-06.08.04:483][996]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2024.05.28-06.08.04:483][996]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.28-06.08.04:483][996]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.28-06.08.04:483][996]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.28-06.08.04:483][996]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.28-06.08.04:483][996]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.28-06.08.04:483][996]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.28-06.08.04:483][996]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.28-06.08.04:483][996]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.28-06.08.04:483][996]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.28-06.08.04:484][996]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.28-06.08.04:484][996]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.28-06.08.04:484][996]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.28-06.08.04:486][996]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.28-06.08.04:486][996]LogAudioMixer: Display: 1: FrontRight
+[2024.05.28-06.08.04:507][996]LogAudioMixer: Display: Using Audio Device Speakers (Realtek Audio)
+[2024.05.28-06.08.04:507][996]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.28-06.08.04:507][996]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.28-06.08.04:507][996]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.28-06.08.04:508][996]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.28-06.08.04:508][996]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.28-06.08.04:508][996]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.28-06.08.04:509][996]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.28-06.08.04:509][996]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.28-06.08.04:509][996]LogInit: FAudioDevice initialized.
+[2024.05.28-06.08.04:509][996]LogAudio: Display: Audio Device (ID: 56) registered with world 'FirstPersonExampleMap'.
+[2024.05.28-06.08.04:573][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-06.08.04:579][996]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.05.28-06.08.04:591][996]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2024.05.28-00.08.04
+[2024.05.28-06.08.04:592][996]LogWorld: Bringing up level for play took: 0.013003
+[2024.05.28-06.08.04:593][996]LogOnline: OSS: Creating online subsystem instance for: :Context_105
+[2024.05.28-06.08.04:605][996]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.28-06.08.04:605][996]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.28-06.08.04:620][996]PIE: Server logged in
+[2024.05.28-06.08.04:622][996]PIE: Play in editor total start time 0.261 seconds.
+[2024.05.28-06.08.04:628][996]LogAudio: Warning: Detected orphaned looping sound 'Ambient_Forest'.
+[2024.05.28-06.08.06:240][ 27]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.28-06.08.06:240][ 27]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.28-06.08.08:772][ 67]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.28-06.08.08:772][ 67]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.28-06.08.13:178][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-06.08.13:189][143]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.05.28-06.08.13:189][143]LogSlate: Window 'PIAVideojuegos Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.05.28-06.08.13:344][143]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-06.08.13:346][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-06.08.13:359][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.28-06.08.13:375][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-06.08.13:425][143]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.28-06.08.13:426][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-06.08.13:427][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-06.08.13:443][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2024.05.28-06.08.13:471][144]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2024.05.28-06.08.23:239][696]BlueprintLog: New page: Compile UW_HUD
+[2024.05.28-06.08.23:297][696]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2024.05.28-06.08.24:772][769]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.28-06.08.24:787][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.28-06.08.24:787][769]PIE: New page: PIE session: FirstPersonExampleMap (May 27, 2024, 7:08:24 PM)
+[2024.05.28-06.08.24:791][769]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.05.28-06.08.24:851][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059057s)
+[2024.05.28-06.08.24:852][769]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.05.28-06.08.24:852][769]LogPlayLevel: PIE: World Init took: (0.001217s)
+[2024.05.28-06.08.24:852][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.060468s)
+[2024.05.28-06.08.24:896][769]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2024.05.28-06.08.24:897][769]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2024.05.28-06.08.24:897][769]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.28-06.08.24:897][769]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.28-06.08.24:897][769]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.28-06.08.24:897][769]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.28-06.08.24:897][769]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.28-06.08.24:897][769]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.28-06.08.24:897][769]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.28-06.08.24:897][769]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.28-06.08.24:898][769]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.28-06.08.24:898][769]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.28-06.08.24:898][769]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.28-06.08.24:898][769]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.28-06.08.24:900][769]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.28-06.08.24:900][769]LogAudioMixer: Display: 1: FrontRight
+[2024.05.28-06.08.24:920][769]LogAudioMixer: Display: Using Audio Device Speakers (Realtek Audio)
+[2024.05.28-06.08.24:921][769]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.28-06.08.24:921][769]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.28-06.08.24:921][769]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.28-06.08.24:921][769]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.28-06.08.24:921][769]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.28-06.08.24:921][769]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.28-06.08.24:923][769]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.28-06.08.24:923][769]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.28-06.08.24:923][769]LogInit: FAudioDevice initialized.
+[2024.05.28-06.08.24:923][769]LogAudio: Display: Audio Device (ID: 57) registered with world 'FirstPersonExampleMap'.
+[2024.05.28-06.08.24:971][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-06.08.24:971][769]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.05.28-06.08.24:986][769]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2024.05.28-00.08.24
+[2024.05.28-06.08.24:987][769]LogWorld: Bringing up level for play took: 0.015009
+[2024.05.28-06.08.24:987][769]LogOnline: OSS: Creating online subsystem instance for: :Context_106
+[2024.05.28-06.08.24:996][769]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.28-06.08.24:996][769]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.28-06.08.24:998][769]PIE: Server logged in
+[2024.05.28-06.08.25:000][769]PIE: Play in editor total start time 0.219 seconds.
+[2024.05.28-06.08.25:006][769]LogAudio: Warning: Detected orphaned looping sound 'Ambient_Forest'.
+[2024.05.28-06.08.26:451][795]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.28-06.08.26:451][795]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.28-06.08.27:890][818]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.28-06.08.27:890][818]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.28-06.08.29:655][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-06.08.29:668][848]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.05.28-06.08.29:669][848]LogSlate: Window 'PIAVideojuegos Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.05.28-06.08.29:804][848]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-06.08.29:805][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-06.08.29:820][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.28-06.08.29:837][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-06.08.29:885][848]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.28-06.08.29:889][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-06.08.29:890][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-06.08.29:906][848]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2024.05.28-06.08.29:929][849]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2024.05.28-06.08.47:453][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/UW_HUD" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/UW_HUD.uasset" SILENT=true
+[2024.05.28-06.08.47:482][892]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/UW_HUD7DC9FC4D459063DE9D22219FE717E331.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/UW_HUD.uasset'
+[2024.05.28-06.08.47:509][892]AssetCheck: New page: Asset Save: UW_HUD
+[2024.05.28-06.08.47:509][892]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/UW_HUD.UW_HUD
+[2024.05.28-06.08.49:597][996]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-06.08.49:597][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-06.08.49:623][996]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-06.08.49:623][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-06.09.30:459][706]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.28-06.09.30:459][706]LogShaderCompilers: Display: Total job queries 861, among them cache hits 491 (57.03%)
+[2024.05.28-06.09.30:459][706]LogShaderCompilers: Display: Tracking 246 distinct input hashes that result in 67 distinct outputs (27.24%)
+[2024.05.28-06.09.30:459][706]LogShaderCompilers: Display: RAM used: 0.32 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.08%
+[2024.05.28-06.09.30:459][706]LogShaderCompilers: Display: ================================================
+[2024.05.28-06.09.30:525][707]MaterialEditorStats: Default UI Pixel Shader: 33 instructions
+[2024.05.28-06.09.30:525][707]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2024.05.28-06.09.30:525][707]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2024.05.28-06.09.30:525][707]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.28-06.09.30:525][707]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.05.28-06.09.30:525][707]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.28-06.09.39:260][778]LogSlate: Window 'Message' being destroyed
+[2024.05.28-06.09.39:266][778]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/HUD/Mat_miniMap.Mat_miniMap
+(Selecting 'No' will cause all changes to be lost!)
+[2024.05.28-06.09.40:536][778]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 2B07D8B0C276A2B18D700E35AA471F4661C594C1), compiling. 
+[2024.05.28-06.09.40:610][778]LogMaterial: Display: Missing cached shadermap for Mat_miniMap in PCD3D_SM5, Default, SM5 (DDC key hash: 310F36C88F5DB899B12820648264F6F78BA11B2B), compiling. 
+[2024.05.28-06.09.40:758][778]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2024.05.28-06.09.40:972][778]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2024.05.28-06.09.41:069][778]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-06.09.41:069][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-06.10.33:945][565]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/Puerta/idCARD/idCard.idCard
+[2024.05.28-06.13.37:597][109]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2024.05.28-06.13.37:602][109]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.070
+[2024.05.28-06.13.37:604][109]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD/Mat_miniMap] ([1] browsable assets)...
+[2024.05.28-06.13.37:618][109]OBJ SavePackage:     Rendered thumbnail for [Material /Game/HUD/Mat_miniMap.Mat_miniMap]
+[2024.05.28-06.13.37:618][109]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Mat_miniMap]
+[2024.05.28-06.13.37:627][109]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/Mat_miniMap_Auto2BCECD90D4EFA11056BBC95991B49C650.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/Autosaves/Game/HUD/Mat_miniMap_Auto2.uasset'
+[2024.05.28-06.13.37:630][109]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Models/Puerta/idCARD/idCard] ([2] browsable assets)...
+[2024.05.28-06.13.37:680][109]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Models/Puerta/idCARD/idCard.idCard]
+[2024.05.28-06.13.37:681][109]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Puerta/idCARD/idCard]
+[2024.05.28-06.13.37:699][109]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/idCard_Auto2960AD8DE4FF8530E4E88B9AF4978969D.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/Autosaves/Game/Models/Puerta/idCARD/idCard_Auto2.uasset'
+[2024.05.28-06.13.37:705][109]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD/keycard_icon__1_] ([1] browsable assets)...
+[2024.05.28-06.13.37:709][109]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD/keycard_icon__1_.keycard_icon__1_]
+[2024.05.28-06.13.37:709][109]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/keycard_icon__1_]
+[2024.05.28-06.13.37:715][109]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/keycard_icon__1__Auto2F879636A49B384FBD9540AA67C13E693.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/Autosaves/Game/HUD/keycard_icon__1__Auto2.uasset'
+[2024.05.28-06.13.37:717][109]LogFileHelpers: Auto-saving content packages took 0.114
+[2024.05.28-06.25.00:528][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Puerta/idCARD/idCard" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/Puerta/idCARD/idCard.uasset" SILENT=true
+[2024.05.28-06.25.00:548][388]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/idCardCEB022F04D5C129521ADC2B6F3BCBD82.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/Puerta/idCARD/idCard.uasset'
+[2024.05.28-06.25.00:580][388]AssetCheck: New page: Asset Save: idCard
+[2024.05.28-06.25.00:580][388]LogContentValidation: Display: Validating Blueprint /Game/Models/Puerta/idCARD/idCard.idCard
+[2024.05.28-06.25.03:094][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Puerta/idCARD/idCard" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/Puerta/idCARD/idCard.uasset" SILENT=true
+[2024.05.28-06.25.03:112][532]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/idCardCB0085824B09EC22F086C997F44E6956.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/Models/Puerta/idCARD/idCard.uasset'
+[2024.05.28-06.25.03:141][532]AssetCheck: New page: Asset Save: idCard
+[2024.05.28-06.25.03:141][532]LogContentValidation: Display: Validating Blueprint /Game/Models/Puerta/idCARD/idCard.idCard
+[2024.05.28-06.25.23:138][864]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\ricky\Documents\Mis_Archivos\FCFM\6 sem\Videojuegos\Other\Bates Shower.ttf)
+[2024.05.28-06.25.37:899][864]LogSlate: Window 'Font Face Import Options' being destroyed
+[2024.05.28-06.25.37:904][864]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2024.05.28-06.25.37:934][864]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2024.05.28-06.25.37:940][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-06.25.38:147][864]LogSlate: Took 0.008896 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.28-06.25.38:176][864]LogSlate: Took 0.008132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.05.28-06.25.38:190][864]LogSlate: Took 0.010872 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.28-06.25.38:198][864]LogSlate: Took 0.005805 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.05.28-06.25.38:211][864]LogSlate: Took 0.004154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.28-06.25.41:427][947]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2024.05.28-06.25.41:445][947]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.070
+[2024.05.28-06.25.41:445][947]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/Bates_Shower] ([1] browsable assets)...
+[2024.05.28-06.25.41:445][947]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Bates_Shower]
+[2024.05.28-06.25.41:448][947]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/Bates_Shower_Auto31DE7F06F43810463DA4047B34AA6A806.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/Autosaves/Game/HUD/Bates_Shower_Auto3.uasset'
+[2024.05.28-06.25.41:450][947]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.05.28-06.26.27:863][506]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HUD/HUD_MENU.HUD_MENU
+[2024.05.28-06.26.28:714][506]LogSlate: Took 0.001845 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.05.28-06.30.03:669][552]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\ricky\Documents\Mis_Archivos\FCFM\6 sem\Videojuegos\UI\logo.jpeg)
+[2024.05.28-06.30.03:715][552]LogTexture: Display: Building textures: logo (OODLE_AutoDXT, 400X400)
+[2024.05.28-06.34.36:001][798]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\ricky\Documents\Mis_Archivos\FCFM\6 sem\Videojuegos\Other\logo-noBG.png)
+[2024.05.28-06.34.36:016][798]LogTexture: Display: Building textures: logo-noBG (OODLE_AutoDXT, 400X400)
+[2024.05.28-06.35.00:399][739]BlueprintLog: New page: Compile HUD_MENU
+[2024.05.28-06.35.00:869][739]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2024.05.28-06.35.01:058][739]LogSlate: Took 0.005266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.05.28-06.36.30:480][762]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2024.05.28-06.36.30:484][762]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.064
+[2024.05.28-06.36.30:485][762]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/HUD_MENU] ([2] browsable assets)...
+[2024.05.28-06.36.30:485][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/HUD_MENU]
+[2024.05.28-06.36.30:555][762]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/HUD_MENU_Auto44D88DBA847ED525C2A642A88E170385B.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/Autosaves/Game/HUD/HUD_MENU_Auto4.uasset'
+[2024.05.28-06.36.30:557][762]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD/logo] ([1] browsable assets)...
+[2024.05.28-06.36.30:563][762]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD/logo.logo]
+[2024.05.28-06.36.30:563][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/logo]
+[2024.05.28-06.36.30:563][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/logo" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/Autosaves/Game/HUD/logo_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.05.28-06.36.30:569][762]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/logo_Auto4A5B88C47429177FFFBBEDEB18A8EA46D.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/Autosaves/Game/HUD/logo_Auto4.uasset'
+[2024.05.28-06.36.30:571][762]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD/logo-noBG] ([1] browsable assets)...
+[2024.05.28-06.36.30:576][762]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD/logo-noBG.logo-noBG]
+[2024.05.28-06.36.30:576][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/logo-noBG]
+[2024.05.28-06.36.30:583][762]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/logo-noBG_Auto404E830A24AE2CE06BBC858BA9C4B4FD3.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/Autosaves/Game/HUD/logo-noBG_Auto4.uasset'
+[2024.05.28-06.36.30:585][762]LogFileHelpers: Auto-saving content packages took 0.101
+[2024.05.28-06.37.55:109][501]BlueprintLog: New page: Compile HUD_MENU
+[2024.05.28-06.37.55:181][501]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2024.05.28-06.37.55:891][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/HUD_MENU" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/HUD_MENU.uasset" SILENT=true
+[2024.05.28-06.37.55:948][527]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/HUD_MENUE24F4922414DB6D4E17443968F4ACC5A.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/HUD_MENU.uasset'
+[2024.05.28-06.37.55:970][527]AssetCheck: New page: Asset Save: HUD_MENU
+[2024.05.28-06.37.55:970][527]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/HUD_MENU.HUD_MENU
+[2024.05.28-06.37.59:148][648]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.28-06.37.59:179][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.28-06.37.59:181][648]PIE: New page: PIE session: FirstPersonExampleMap (May 27, 2024, 7:37:59 PM)
+[2024.05.28-06.37.59:182][648]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.05.28-06.37.59:275][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093682s)
+[2024.05.28-06.37.59:277][648]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.05.28-06.37.59:277][648]LogPlayLevel: PIE: World Init took: (0.002203s)
+[2024.05.28-06.37.59:277][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.096172s)
+[2024.05.28-06.37.59:331][648]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2024.05.28-06.37.59:333][648]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2024.05.28-06.37.59:333][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.28-06.37.59:333][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.28-06.37.59:333][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.28-06.37.59:333][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.28-06.37.59:333][648]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.28-06.37.59:333][648]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.28-06.37.59:333][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.28-06.37.59:333][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.28-06.37.59:333][648]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.28-06.37.59:334][648]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.28-06.37.59:334][648]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.28-06.37.59:334][648]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.28-06.37.59:344][648]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.28-06.37.59:345][648]LogAudioMixer: Display: 1: FrontRight
+[2024.05.28-06.37.59:365][648]LogAudioMixer: Display: Using Audio Device Speakers (Realtek Audio)
+[2024.05.28-06.37.59:372][648]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.28-06.37.59:372][648]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.28-06.37.59:372][648]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.28-06.37.59:373][648]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.28-06.37.59:373][648]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.28-06.37.59:373][648]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.28-06.37.59:375][648]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.28-06.37.59:375][648]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.28-06.37.59:375][648]LogInit: FAudioDevice initialized.
+[2024.05.28-06.37.59:375][648]LogAudio: Display: Audio Device (ID: 58) registered with world 'FirstPersonExampleMap'.
+[2024.05.28-06.37.59:394][648]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.05.28-06.37.59:404][648]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2024.05.28-00.37.59
+[2024.05.28-06.37.59:405][648]LogWorld: Bringing up level for play took: 0.010729
+[2024.05.28-06.37.59:407][648]LogOnline: OSS: Creating online subsystem instance for: :Context_110
+[2024.05.28-06.37.59:416][648]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.28-06.37.59:416][648]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.28-06.37.59:416][648]PIE: Server logged in
+[2024.05.28-06.37.59:417][648]PIE: Play in editor total start time 0.257 seconds.
+[2024.05.28-06.37.59:423][648]LogAudio: Warning: Detected orphaned looping sound 'Ambient_Forest'.
+[2024.05.28-06.38.05:137][792]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.28-06.38.05:137][792]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.28-06.42.34:136][834]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\ricky\Documents\Mis_Archivos\FCFM\6 sem\Videojuegos\Other\logo-noBG (1).png)
+[2024.05.28-06.42.34:145][834]LogTexture: Display: Building textures: logo-noBG__1_ (OODLE_AutoDXT, 400X400)
+[2024.05.28-06.42.38:529][866]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.28-06.42.38:530][866]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.28-06.42.39:861][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-06.42.39:883][882]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.05.28-06.42.39:963][882]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-06.42.40:012][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-06.42.40:114][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.28-06.42.40:194][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-06.42.40:276][882]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.28-06.42.40:299][882]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-06.42.40:305][882]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-06.42.40:322][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-06.42.40:423][882]LogUObjectHash: Compacting FUObjectHashTables data took   7.72ms
+[2024.05.28-06.42.40:580][883]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2024.05.28-06.42.41:947][894]LogSlate: Took 0.003178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.05.28-06.43.06:112][169]BlueprintLog: New page: Compile HUD_MENU
+[2024.05.28-06.43.06:263][169]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2024.05.28-06.43.07:065][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/HUD_MENU" FILE="../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/HUD_MENU.uasset" SILENT=true
+[2024.05.28-06.43.07:167][202]LogSavePackage: Moving '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Saved/HUD_MENUE8CF82FC426E635A2DAEA786D6332B0A.tmp' to '../../../../../../Users/ricky/Documents/GitHub/videojuegosPIA/PIAVideojuegos/Content/HUD/HUD_MENU.uasset'
+[2024.05.28-06.43.07:193][202]AssetCheck: New page: Asset Save: HUD_MENU
+[2024.05.28-06.43.07:193][202]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/HUD_MENU.HUD_MENU
+[2024.05.28-06.43.12:709][512]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-06.43.12:710][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-06.43.12:730][512]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-06.43.12:730][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-06.43.15:791][615]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.28-06.43.15:810][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.28-06.43.15:810][615]PIE: New page: PIE session: FirstPersonExampleMap (May 27, 2024, 7:43:15 PM)
+[2024.05.28-06.43.15:817][615]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.05.28-06.43.15:916][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098446s)
+[2024.05.28-06.43.15:918][615]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.05.28-06.43.15:918][615]LogPlayLevel: PIE: World Init took: (0.002320s)
+[2024.05.28-06.43.15:918][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.100998s)
+[2024.05.28-06.43.15:975][615]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2024.05.28-06.43.15:978][615]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2024.05.28-06.43.15:978][615]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.28-06.43.15:978][615]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.28-06.43.15:978][615]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.28-06.43.15:978][615]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.28-06.43.15:978][615]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.28-06.43.15:978][615]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.28-06.43.15:978][615]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.28-06.43.15:978][615]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.28-06.43.15:979][615]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.28-06.43.15:979][615]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.28-06.43.15:979][615]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.28-06.43.15:979][615]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.28-06.43.15:987][615]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.28-06.43.15:987][615]LogAudioMixer: Display: 1: FrontRight
+[2024.05.28-06.43.16:009][615]LogAudioMixer: Display: Using Audio Device Speakers (Realtek Audio)
+[2024.05.28-06.43.16:009][615]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.28-06.43.16:010][615]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.28-06.43.16:010][615]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.28-06.43.16:012][615]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.28-06.43.16:012][615]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.28-06.43.16:012][615]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.28-06.43.16:016][615]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.28-06.43.16:016][615]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.28-06.43.16:016][615]LogInit: FAudioDevice initialized.
+[2024.05.28-06.43.16:016][615]LogAudio: Display: Audio Device (ID: 59) registered with world 'FirstPersonExampleMap'.
+[2024.05.28-06.43.16:031][615]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.05.28-06.43.16:040][615]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2024.05.28-00.43.16
+[2024.05.28-06.43.16:041][615]LogWorld: Bringing up level for play took: 0.010005
+[2024.05.28-06.43.16:042][615]LogOnline: OSS: Creating online subsystem instance for: :Context_111
+[2024.05.28-06.43.16:050][615]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.28-06.43.16:050][615]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.28-06.43.16:051][615]PIE: Server logged in
+[2024.05.28-06.43.16:052][615]PIE: Play in editor total start time 0.25 seconds.
+[2024.05.28-06.43.16:057][615]LogAudio: Warning: Detected orphaned looping sound 'Ambient_Forest'.
+[2024.05.28-06.43.19:325][696]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.28-06.43.19:325][696]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.28-06.43.37:646][ 23]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-06.43.37:805][ 25]LogBlueprintUserMessages: [MainSWAT_C_0] Hit
+[2024.05.28-06.43.38:360][ 32]LogBlueprintUserMessages: [MainSWAT_C_0] Hit
+[2024.05.28-06.43.38:367][ 32]LogBlueprintUserMessages: [MaceDemon_2] Damage
+[2024.05.28-06.43.38:393][ 33]LogBlueprintUserMessages: [MainSWAT_C_0] Hit
+[2024.05.28-06.43.38:588][ 37]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-06.43.39:052][ 49]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-06.43.39:679][ 62]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-06.43.40:161][ 72]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-06.43.40:364][ 76]LogBlueprintUserMessages: [MaceDemon_2] Damage
+[2024.05.28-06.43.40:495][ 79]LogBlueprintUserMessages: [MainSWAT_C_0] Hit
+[2024.05.28-06.43.40:590][ 81]LogBlueprintUserMessages: [MainSWAT_C_0] Hit
+[2024.05.28-06.43.40:699][ 83]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-06.43.41:478][101]LogBlueprintUserMessages: [MainSWAT_C_0] Hit
+[2024.05.28-06.43.41:566][103]LogBlueprintUserMessages: [MainSWAT_C_0] Hit
+[2024.05.28-06.43.41:691][106]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-06.43.41:810][109]LogBlueprintUserMessages: [MaceDemon_2] Damage
+[2024.05.28-06.43.42:238][119]LogBlueprintUserMessages: [MaceDemon_2] Chasing!
+[2024.05.28-06.43.42:360][122]LogBlueprintUserMessages: [MaceDemon_2] Dead
+[2024.05.28-06.43.45:154][172]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.28-06.43.45:154][172]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.28-06.43.46:373][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-06.43.46:401][191]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.05.28-06.43.46:464][191]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-06.43.46:466][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-06.43.46:495][191]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.28-06.43.46:522][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-06.43.46:603][191]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.28-06.43.46:606][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-06.43.46:608][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-06.43.46:615][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-06.43.46:631][191]LogUObjectHash: Compacting FUObjectHashTables data took   6.65ms
+[2024.05.28-06.43.46:732][192]LogPlayLevel: Display: Destroying online subsystem :Context_111
